@@ -9,7 +9,8 @@ KaratDAO:
 * [Airdrop Claim](https://karatdao.com/network/airdrop)
 
 NFT:
-* [Tabi Mermaid](https://tabi.lol/mermaid)
+* Tabi
+  * [Mermaid](https://tabi.lol/mermaid)（需要注册Reddit），及[银河活动](https://galxe.com/TabiNFT/campaign/GCHKUUWp5m)（需要少量BNB）
 * [Bounce Finance](https://app.bounce.finance/okxActivity/zksyncera/1)
 
 链游:
