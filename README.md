@@ -27,4 +27,7 @@ NFT:
 * [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail): [徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
 
 KYC:
-- https://galxe.com/taiko/campaign/GCwEqUSZqQ
+* Taiko: **[银河活动](https://galxe.com/taiko/campaign/GCwEqUSZqQ)**
+  * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
+  * Qiz1: C-C-B
+  * Qiz2: B-C-C-B-B
