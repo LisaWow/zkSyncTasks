@@ -1,12 +1,19 @@
 SyncSwap:
 * [zkSync Grand Carnival Week! Join 30,000 limited SyncSwap CAP Airdrop!](https://taskon.xyz/campaign/detail/5551)
 
+[CrusSwap]
+* [银河任务](https://galxe.com/crus/campaign/GCD7XUQbEh)（需完成Crus的LP和Swap）
+
 [Satori](https://zksync.satori.finance/)（不支持美国、东亚，[交互教程](https://twitter.com/oldleek_eth/status/1674059322760867846?s=20)）:
 * [银河任务](https://twitter.com/Zlican133061/status/1676515660304875520?s=20)
   * 截至2023.7.7
 
 KaratDAO:
 * [Airdrop Claim](https://karatdao.com/network/airdrop)
+* 银河任务
+  * [Claimer](https://galxe.com/karat/campaign/GCQDoUe7So)
+  * [第二轮Claimer](https://galxe.com/karat/campaign/GCYLXUWfG8)
+    * 截至2023..16
 
 NFT:
 * Tabi
