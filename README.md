@@ -12,8 +12,9 @@ KaratDAO:
 * [Airdrop Claim](https://karatdao.com/network/airdrop)
 * 银河任务
   * [Claimer](https://galxe.com/karat/campaign/GCQDoUe7So)
-  * [第二轮Claimer](https://galxe.com/karat/campaign/GCYLXUWfG8)
-    * 截至2023..16
+  * [VCs](https://galxe.com/karat/campaign/GCYLXUWfG8)
+    * Twitter、Discord、邮箱和Stream账号，upload（大约消耗1U*4）
+    * 截至2023.7.16
 
 NFT:
 * Tabi
