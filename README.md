@@ -4,8 +4,16 @@ SyncSwap:
 EraLend
 * [银河任务](https://galxe.com/eralend/campaign/GCvzAUeVzg)
   * EraLend - SyncSwap 双协议
+  * [交互指南](https://twitter.com/yunknkn2/status/1679497749329477633)
+    * （前提）进行SyncSwap的ETH-USDC流动性供应
+    * 质押SyncSwap的LP份额（交互1），并授权（交互2）供应（交互3）EraLend供应
+      * 一定金额以上，达到3/5天有积分
+    * （后续可选）借出ETH或USDC
+      * 一定金额以上，达到3/5天有积分
+  * EraLend积分规则：
+  ![Alt text](image.png)
 
-[CrusSwap]
+[CrusSwap](https://crus.xyz/)
 * [银河任务](https://galxe.com/crus/campaign/GCD7XUQbEh)（需完成Crus的LP和Swap）
   * Discord要求手机验证
 
