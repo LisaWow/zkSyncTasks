@@ -1,6 +1,10 @@
 SyncSwap:
 * [zkSync Grand Carnival Week! Join 30,000 limited SyncSwap CAP Airdrop!](https://taskon.xyz/campaign/detail/5551)
 
+EraLend
+* [银河任务](https://galxe.com/eralend/campaign/GCvzAUeVzg)
+  * EraLend - SyncSwap 双协议
+
 [CrusSwap]
 * [银河任务](https://galxe.com/crus/campaign/GCD7XUQbEh)（需完成Crus的LP和Swap）
   * Discord要求手机验证
@@ -27,7 +31,8 @@ NFT:
 * [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail): [徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
 
 KYC:
-* Taiko: **[银河活动](https://galxe.com/taiko/campaign/GCwEqUSZqQ)**
+* Taiko: **[银河活动](https://galxe.com/taiko/)**
+  * Discord需通过Taiko的反机器人测试
   * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
   * Qiz1: C-C-B
   * Qiz2: B-C-C-B-B
