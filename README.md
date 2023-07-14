@@ -10,7 +10,8 @@ EraLend
       * 一定金额以上，达到3/5天有积分
     * （后续可选）借出ETH或USDC
       * 一定金额以上，达到3/5天有积分
-  * EraLend积分规则：
+    * 【注意】因为从SyncSwap LP开始到结束涉及多达7~8步交互，需确保有$3~4的ERA_ETH打底，否则需要利用跨链补充ERA_ETH从而增加成本
+  * 【参考】EraLend积分规则：
   ![Alt text](image.png)
 
 [CrusSwap](https://crus.xyz/)
