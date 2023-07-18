@@ -8,6 +8,8 @@ EraLend
     * （前提）进行SyncSwap的ETH-USDC流动性供应
     * 质押SyncSwap的LP份额（交互1），并授权（交互2）供应（交互3）EraLend供应
       * 一定金额以上，达到3/5天有积分
+      * 如果不在后续借出ETH或USDC，不用完成交互1
+      * 注意：授权（交互2）的是SyncSwap的ETH-USDC池子的比例，非USDC数
     * （后续可选）借出ETH或USDC
       * 一定金额以上，达到3/5天有积分
     * 【注意】因为从SyncSwap LP开始到结束涉及多达7~10步交互，需确保有$3~4的ERA_ETH打底，否则需要利用跨链补充ERA_ETH从而增加成本
