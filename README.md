@@ -1,3 +1,6 @@
+zkSync官方：
+* [NFT铸造](https://twitter.com/gm365/status/1680826465603166208?s=20)
+
 SyncSwap:
 * [zkSync Grand Carnival Week! Join 30,000 limited SyncSwap CAP Airdrop!](https://taskon.xyz/campaign/detail/5551)
 
