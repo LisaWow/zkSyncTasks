@@ -54,3 +54,5 @@ KYC:
   * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
   * Qiz1: C-C-B
   * Qiz2: B-C-C-B-B
+  * 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
+    * Qiz: B-B-A-C-D
