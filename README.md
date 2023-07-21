@@ -43,6 +43,7 @@ NFT:
 * Tabi
   * [Mermaid](https://tabi.lol/mermaid)（需要注册Reddit），及[银河活动](https://galxe.com/TabiNFT/campaign/GCHKUUWp5m)（申领网为BSC）
     * [关联银河活动](https://galxe.com/TabiNFT/campaign/GCyAfUNdGr)（仍可部分申领）
+  * [Partnership - 银河OAT](https://galxe.com/TabiNFT/campaign/GCwETU7iJL)(0723截止)
 * [Bounce Finance](https://app.bounce.finance/okxActivity/zksyncera/1)
 
 链游:
