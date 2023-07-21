@@ -3,7 +3,7 @@ zkSync官方：
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
 
 SyncSwap:
-* [zkSync Grand Carnival Week! Join 30,000 limited SyncSwap CAP Airdrop!](https://taskon.xyz/campaign/detail/5551)
+* 【已结束】[zkSync Grand Carnival Week! Join 30,000 limited SyncSwap CAP Airdrop!](https://taskon.xyz/campaign/detail/5551)
 
 EraLend
 * [银河任务（一鱼多吃）](https://galxe.com/eralend/campaign/GCvzAUeVzg)
@@ -44,7 +44,7 @@ NFT:
   * [Mermaid](https://tabi.lol/mermaid)（需要注册Reddit），及[银河活动](https://galxe.com/TabiNFT/campaign/GCHKUUWp5m)（申领网为BSC）
     * [关联银河活动](https://galxe.com/TabiNFT/campaign/GCyAfUNdGr)（仍可部分申领）
   * [Partnership - 银河OAT](https://galxe.com/TabiNFT/campaign/GCwETU7iJL)(0723截止)
-* [Bounce Finance](https://app.bounce.finance/okxActivity/zksyncera/1)
+* [Bounce Finance](https://app.bounce.finance/okxActivity/zksyncera/1): 万一的E做一次交互（需要交互广度时可以玩一玩）
 
 链游:
 * [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail): 【已结束】[徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
