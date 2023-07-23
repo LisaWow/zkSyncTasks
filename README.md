@@ -39,6 +39,9 @@ KaratDAO:
     * Twitter、Discord、邮箱和Stream账号，upload（大约消耗1U*4）
     * 截至2023.7.16
 
+Dmail:
+* [银河活动](https://galxe.com/dmail/campaign/GCVJ1U7r6A)
+
 NFT:
 * Tabi
   * [Mermaid](https://tabi.lol/mermaid)（需要注册Reddit），及[银河活动](https://galxe.com/TabiNFT/campaign/GCHKUUWp5m)（申领网为BSC）
@@ -57,3 +60,6 @@ KYC:
   * Qiz2: B-C-C-B-B
   * 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
     * Qiz: B-B-A-C-D
+
+MISC:
+* https://galxe.com/undefined/campaign/GC9tiUeiq3
