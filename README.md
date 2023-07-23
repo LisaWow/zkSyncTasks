@@ -30,6 +30,10 @@ EraLend
 * 【已结束】[银河任务](https://twitter.com/Zlican133061/status/1676515660304875520?s=20)
 * 【注意】Discord要求手机验证
 
+[SynFuture](https://trade.synfutures.com/#/trade):
+* [银河任务](https://galxe.com/synfutures/campaign/GCRW8UWb3M)
+  * 0730截止
+
 KaratDAO:
 * 已第一轮空投，Gas过高，参与价值待验证
 * [Airdrop Claim](https://karatdao.com/network/airdrop)
@@ -62,4 +66,4 @@ KYC:
     * Qiz: B-B-A-C-D
 
 MISC:
-* https://galxe.com/undefined/campaign/GC9tiUeiq3
+* [AltLayer](https://galxe.com/undefined/campaign/GC9tiUeiq3)
