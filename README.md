@@ -74,4 +74,6 @@ KYC:
     * Qiz: B-B-A-C-D
 
 MISC:
-* [AltLayer](https://galxe.com/undefined/campaign/GC9tiUeiq3)
+* [AltLayer银河活动](https://galxe.com/undefined/campaign/GC9tiUeiq3)：400分
+  * [教程](https://docs.altlayer.io/altlayer-documentation/rollup-launchpad/altitude-phase-iii-restaking-tier/prerequisite-restake-with-eigenlayer)
+  * [活动介绍博客](https://blog.altlayer.io/altlayer-collaborates-with-eigenlayer-on-altitude-phase-iii-restaking-to-launch-flash-layer-73626afce02fv)
