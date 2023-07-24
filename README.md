@@ -1,3 +1,9 @@
+Galxe:
+* [A+ Role](https://galxe.com/galxecommunity/campaign/GCUTpU7t2T)
+  * [测试频道](https://discord.com/channels/824767871183355954/1072476542191542332)
+  * 40s一道题，需完成8/10，否则需4小时后重试
+  * [QAs](Galxe_APlus_Role_QAs.md)
+
 zkSync官方：
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
@@ -33,6 +39,7 @@ EraLend
 [SynFuture](https://trade.synfutures.com/#/trade):
 * [银河任务](https://galxe.com/synfutures/campaign/GCRW8UWb3M)
   * 0730截止
+* 美国、英国、东亚禁止
 
 KaratDAO:
 * 已第一轮空投，Gas过高，参与价值待验证
@@ -45,6 +52,7 @@ KaratDAO:
 
 Dmail:
 * [银河活动](https://galxe.com/dmail/campaign/GCVJ1U7r6A)
+  * 0803截止
 
 NFT:
 * Tabi
