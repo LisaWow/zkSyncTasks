@@ -10,6 +10,17 @@
 **🇩 - Galxe**
 
 
+> How many users does Galxe have?
+
+**🇦 - 5 million**
+
+🇧 - 10 million
+
+🇨 - 20 million
+
+🇩 - Over 30 million
+
+
 > When was the Space Tier Program introduced by Galxe?
 
 🇦 - April 25th, 2023
@@ -32,6 +43,17 @@
 🇩 - Image Credential
 
 
+> What is the newest feature introduced by Galxe?
+
+🇦 - One-time Campaigns
+
+🇧 - Weekly Campaigns
+
+🇨 - Monthly Campaigns
+
+?🇩 - Recurring Campaigns
+
+
 > What is Galxe OAT?
 
 **🇦 - On-chain Achievement Token**
@@ -43,6 +65,28 @@
 🇩 - Optimized Algorithm Technique
 
 
+> What is the reward for completing the quiz created by Galxe?
+
+?🇦 - OAT
+
+🇧 - NFT
+
+🇨 - Cryptocurrency
+
+?🇩 - Loyalty Points
+
+
+> What is the purpose of Loyalty Points in Mystery Box Campaigns?
+
+? 🇦 - To reward the community
+
+🇧 - To create a new game
+
+🇨 - To launch a new product
+
+🇩 - To promote a new event
+
+
 > What is the "Following" feature on Galxe?
 
 **🇦 - A feature to follow other users**
@@ -50,6 +94,29 @@
 🇧 - A feature to discover campaigns
 
 🇨 - A feature to track cryptocurrency prices
+
+
+> How can Projects track their current tier level?
+
+🇦 - By checking their email
+
+🇧 - By contacting customer support
+
+🇨 - By visiting the Projects page
+
+**🇩 - By checking their dashboard**
+
+
+> Is Galxe’s Dashboard free to use?
+
+**🇦 - Yes**
+
+🇧 - No
+
+🇨 - Only for a limited time
+
+🇩 - It depends on the project's size
+
 
 
 > Which of the following is NOT a category in the new Data Dashboard Interface?
@@ -85,7 +152,29 @@
 🇩 - By leaving a review on a popular review website
 
 
+> What token did SPACE ID launch recently?
+
+**🇦 - SPACE token**
+
+🇧 - GAL token
+
+🇨 - ID token
+
+🇩 - Soul-bound Token
+
+
 ## **【选长的】**
+
+>What is the main goal of Galxe's new product updates, features, and community developments?
+
+🇦 - To become the largest web3 company by market capitalization
+
+🇧 - To create an alternative to established social media platforms
+
+🇨 - To expand the platform's user base through traditional marketing techniques
+
+**🇩 - To constantly innovate and introduce new features that incentivize user participation and engagement in web3**
+
 
 >What is the purpose of the Space Tier Program?
 
