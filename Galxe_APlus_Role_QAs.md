@@ -21,6 +21,17 @@
 🇩 - Over 30 million
 
 
+> How many partners has Galxe propelled the growth of?
+
+🇦 - More than 800
+
+**🇧 - More than 2800**
+
+🇨 - More than 3800
+
+🇩 - More than 1800
+
+
 > When was the Space Tier Program introduced by Galxe?
 
 🇦 - April 25th, 2023
@@ -51,7 +62,7 @@
 
 🇨 - Monthly Campaigns
 
-?🇩 - Recurring Campaigns
+**🇩 - Recurring Campaigns**
 
 
 > What is Galxe OAT?
@@ -76,6 +87,17 @@
 ?🇩 - Loyalty Points
 
 
+> What kind of rewards can projects offer through the Loyalty Points System?
+
+🇦 - Cryptocurrency mining contracts
+
+**🇧 - Tokens, OATS, NFTs, and loyalty points**
+
+🇨 - Cash rewards and gift cards
+
+🇩 - Shares in the company
+
+
 > What is the purpose of Loyalty Points in Mystery Box Campaigns?
 
 ? 🇦 - To reward the community
@@ -87,11 +109,22 @@
 🇩 - To promote a new event
 
 
+> Which tier of Voyage Boxes contains the highest amount of Loyalty Points?
+
+🇦 - Uncommon
+
+🇧 - Rare
+
+**🇨 - Legendary**
+
+🇩 - Epic
+
+
 > What is the "Following" feature on Galxe?
 
-**🇦 - A feature to follow other users**
+🇦 - A feature to follow other users
 
-🇧 - A feature to discover campaigns
+**🇧 - A feature to discover campaigns**
 
 🇨 - A feature to track cryptocurrency prices
 
@@ -162,6 +195,38 @@
 
 🇩 - Soul-bound Token
 
+>Which projects were the first to utilize the Galxe Mintlist?
+
+**🇦 - Party Icons and Kreepy Kritters**
+
+🇧 - CryptoKitties and Decentraland
+
+🇨 - OpenSea and Rarible
+
+🇩 - SuperRare and MakersPlace
+
+
+> What is the difference between the Galxe ID SDK and Galxe Passport SDK?
+
+**🇦 - Galxe ID SDK uses OAuth authentication while Galxe Passport SDK is a one-time authorization**
+
+🇧 - Galxe ID SDK is for mobile devices while Galxe Passport SDK is for desktop computers
+
+🇨 - Galxe ID SDK requires a subscription while Galxe Passport SDK is free to use
+
+🇩 - Galxe ID SDK supports multiple languages while Galxe Passport SDK is available only in English
+
+
+> How does Galxe ensure user control and data ownership with the Galxe ID SDK feature?
+
+🇦 - By limiting the amount of data projects can request
+
+🇧 - By providing users with a secure cloud storage solution
+
+**🇨 - By requiring user permission to access profile information**
+
+🇩 - By encrypting all user data with a unique key
+
 
 ## **【选长的】**
 
@@ -210,6 +275,29 @@
 🇩 - To offer social media services
 
 
+>How can projects reward their community with Loyalty Points using Galxe?
+
+**🇦 - By launching a Campaign and issuing Loyalty Points as rewards**
+
+🇧 - By hosting live events and distributing points manually
+
+🇨 - By allowing users to purchase points with cryptocurrency
+
+🇩 - By paying gas transactions in block-chains
+
+
+
+> What is the purpose of the Quiz Credential?
+
+🇦 - To create online courses
+
+🇧 - To host online competitions
+
+**🇨 - To test users’ knowledge on specific topics**
+
+🇩 - To create online surveys
+
+
 >What is the purpose of the Space Tier Program?
 
 **🇦 - To empower Projects and incentivize their web3 communities**
@@ -230,6 +318,29 @@
 🇨 - A platform for music streaming
 
 🇩 - A virtual reality gaming platform
+
+
+> What is the purpose of SPACE ID Voyage Season 2?
+
+🇦 - To participate in a gaming competition
+
+🇧 - To learn about blockchain technology
+
+**🇨 - To receive Voyage Boxes and Loyalty Points, which can lead to more ID tokens from the airdrop**
+
+🇩 - To collect as much domain names as you can
+
+
+> What can users receive by participating in SPACE ID Voyage Season 2 and their Referral Program?
+
+**🇦 - Voyage Boxes containing randomized Loyalty Points**
+
+🇧 - GAL tokens
+
+🇨 - Free 3 digits domain name
+
+🇩 - SpaceID Gift card
+
 
 
 >What is the purpose of Recurring Campaigns?
