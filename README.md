@@ -1,3 +1,6 @@
+Goerli水龙头：
+* https://goerlifaucet.com/
+
 Galxe:
 * [A+ Role](https://galxe.com/galxecommunity/campaign/GCUTpU7t2T)
   * [测试频道](https://discord.com/channels/824767871183355954/1072476542191542332)
