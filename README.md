@@ -78,5 +78,7 @@ KYC:
 
 MISC:
 * [AltLayer银河活动](https://galxe.com/undefined/campaign/GC9tiUeiq3)：400分
-  * [教程](https://docs.altlayer.io/altlayer-documentation/rollup-launchpad/altitude-phase-iii-restaking-tier/prerequisite-restake-with-eigenlayer)
+  * 教程：[准备工作](https://docs.altlayer.io/altlayer-documentation/rollup-launchpad/altitude-phase-iii-restaking-tier/prerequisite-restake-with-eigenlayer)，[交互工作](https://docs.altlayer.io/altlayer-documentation/rollup-launchpad/altitude-phase-iii-restaking-tier/launching-restaking-trial-flash-layer)
+    * 确保转移略大于0.01stETH
+    * 最后一步创建flash layer需要注意使用独特的Flash Layer Name，并耐心尝试（高峰期不容易成功）
   * [活动介绍博客](https://blog.altlayer.io/altlayer-collaborates-with-eigenlayer-on-altitude-phase-iii-restaking-to-launch-flash-layer-73626afce02fv)
