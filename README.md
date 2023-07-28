@@ -6,6 +6,7 @@ Galxe:
   * [测试频道](https://discord.com/channels/824767871183355954/1072476542191542332)
   * 40s一道题，需完成8/10，否则需4小时后重试
   * [QAs](Galxe_APlus_Role_QAs.md)
+  * [推荐阅读](https://blog.galxe.com/galxe-loyalty-points-system-redefining-web3-loyalty-programs-135a159dcb4c)
 
 zkSync官方：
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
@@ -78,9 +79,17 @@ KYC:
 
 MISC:
 * [AltLayer银河活动](https://galxe.com/undefined/campaign/GC9tiUeiq3)：400分
+  * 2023.08.16截止
   * Discord需手机验证
   * 教程：[准备工作](https://docs.altlayer.io/altlayer-documentation/rollup-launchpad/altitude-phase-iii-restaking-tier/prerequisite-restake-with-eigenlayer)，[交互工作](https://docs.altlayer.io/altlayer-documentation/rollup-launchpad/altitude-phase-iii-restaking-tier/launching-restaking-trial-flash-layer)
-    * 确保转移略大于0.01stETH
-    * 最后一步创建flash layer需要注意使用独特的Flash Layer Name，并耐心尝试（高峰期不容易成功）
-    * 需要等待自己部署的Flash Layer状态变为Active（紫蓝色，而非红色的Deploying或绿色的Queued）才算成功
+    * Step0: Get Goerli testnet tokens using [faucet](https://goerlifaucet.com/)
+      * 0.02E 测试网代币足够
+    * Step1: Lido staked Ether:
+      * 合约地址：`0x1643E812aE58766192Cf7D2Cf9567dF2C37e9B7F`
+      * 确保转移略大于0.0106stETH
+    * Step2: Restaking using [Eigenlayer](https://goerli.eigenlayer.xyz/)
+    * Step3: Create a Flash Layer using [AltLayer Rollup Launchpad](https://altitude.altlayer.io/)
+      * 需要注意使用独特的Flash Layer Name，并耐心尝试（高峰期不容易成功）
+    * Step4: Wait for deployment completion
+      * 需要等待自己部署的Flash Layer状态变为Active（紫蓝色，而非红色的Deploying或绿色的Queued）才算成功
   * [活动介绍博客](https://blog.altlayer.io/altlayer-collaborates-with-eigenlayer-on-altitude-phase-iii-restaking-to-launch-flash-layer-73626afce02fv)
