@@ -9,6 +9,7 @@ Galxe:
   * [推荐阅读](https://blog.galxe.com/galxe-loyalty-points-system-redefining-web3-loyalty-programs-135a159dcb4c)
 
 zkSync官方：
+* [官方NFT铸造](https://zksync-mint.summon.xyz/)
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
 
@@ -78,6 +79,8 @@ KYC:
     * Qiz: B-B-A-C-D
 
 MISC:
+* [AppleHead银河活动](https://galxe.com/applehead/campaign/GC36RU7Lh3)
+  * 2023.8.24截止
 * [AltLayer银河活动](https://galxe.com/undefined/campaign/GC9tiUeiq3)：400分
   * 2023.08.16截止
   * Discord需手机验证
