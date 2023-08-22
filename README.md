@@ -78,6 +78,9 @@ KYC:
   * 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
     * Qiz: B-B-A-C-D
 
+BASE链任务：
+* [Mission Web3银河活动](https://galxe.com/MissionWeb3)
+
 MISC:
 * [AppleHead银河活动](https://galxe.com/applehead/campaign/GC36RU7Lh3)
   * 2023.8.24截止
