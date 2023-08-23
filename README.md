@@ -49,6 +49,7 @@ EraLend
 KaratDAO:
 * 已第一轮空投，Gas过高，参与价值待验证
 * [Airdrop Claim](https://karatdao.com/network/airdrop)
+  * 第二轮：2023.8.24 1:00
 * 银河任务
   * [Claimer](https://galxe.com/karat/campaign/GCQDoUe7So)
   * [VCs](https://galxe.com/karat/campaign/GCYLXUWfG8)
@@ -79,7 +80,8 @@ KYC:
     * Qiz: B-B-A-C-D
 
 BASE链任务：
-* [Mission Web3银河活动](https://galxe.com/MissionWeb3)
+* [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
+* [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
 
 MISC:
 * [AppleHead银河活动](https://galxe.com/applehead/campaign/GC36RU7Lh3)
