@@ -2,7 +2,7 @@
 
 水龙头：
 * Goerli: [Alchemy](https://goerlifaucet.com/)
-* Sepolia: [Alchemy](https://sepoliafaucet.com/) / [PoW挖矿](sepolia-faucet.pk910.de)
+* Sepolia: [Alchemy](https://sepoliafaucet.com/) (0.5E/day) / [QuickNode](https://faucet.quicknode.com/ethereum/sepolia) (0.05E * 2/day) / [PoW挖矿](sepolia-faucet.pk910.de)(0.05E/3hour, 不推荐)
 
 Galxe:
 * [A+ Role](https://galxe.com/galxecommunity/campaign/GCUTpU7t2T)
