@@ -16,6 +16,9 @@ zkSync官方：
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
 
+Orbiter:
+* [银河奥德赛](https://galxe.com/OrbiterFinance/campaign/GCUcTUiTut): 2023.09.07结束
+
 SyncSwap:
 * 【已结束】[zkSync Grand Carnival Week! Join 30,000 limited SyncSwap CAP Airdrop!](https://taskon.xyz/campaign/detail/5551)
 
