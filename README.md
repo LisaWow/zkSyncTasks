@@ -40,6 +40,7 @@ EraLend
 [Satori](https://zksync.satori.finance/)（不支持美国、东亚，[交互教程](https://twitter.com/oldleek_eth/status/1674059322760867846?s=20)）:
 * 【已结束】[银河任务](https://twitter.com/Zlican133061/status/1676515660304875520?s=20)
 * 【注意】Discord要求手机验证
+* OKX Cyperpedia活动持续（要求50U+和至少一笔交易）
 
 [SynFuture](https://trade.synfutures.com/#/trade):
 * 【已结束】[银河任务](https://galxe.com/synfutures/campaign/GCRW8UWb3M)
@@ -51,9 +52,8 @@ KaratDAO:
   * 第二轮：2023.8.24 1:00
 * 银河任务
   * [Claimer](https://galxe.com/karat/campaign/GCQDoUe7So)
-  * [VCs](https://galxe.com/karat/campaign/GCYLXUWfG8)
+  * 【已结束】[VCs](https://galxe.com/karat/campaign/GCYLXUWfG8)
     * Twitter、Discord、邮箱和Stream账号，upload（大约消耗1U*4）
-    * 截至2023.7.16
 
 Dmail:
 * 【已结束】[银河活动](https://galxe.com/dmail/campaign/GCVJ1U7r6A)
@@ -95,8 +95,8 @@ BASE链任务：
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
 
 MISC:
-* [EigenLayer](https://www.eigenlayer.xyz/):
-  * **EigenWorlds NFT**: [官方](https://mint.eigenlayer.xyz/)(Gas Limit 130K，截止2003.08.31 00), 
+* [EigenLayer](https://app.eigenlayer.xyz/):
+  * **EigenWorlds NFT**: [官方](https://mint.eigenlayer.xyz/)(Gas Limit 130K, 实际87K。截止2003.08.31 00), 
     * Basic Layer: [mint.fun](https://mint.fun/ethereum/0x8d0802559775C70fb505f22988a4FD4A4f6D3B62)(Gas Limit 87K)
     * Restaker: 参与过质押（[交互指南1](https://twitter.com/jianshubiji/status/1693908864322949300), [2](https://twitter.com/maik2hello/status/1693920645003006129)）
 * 【已结束】[AltLayer银河活动](https://galxe.com/undefined/campaign/GC9tiUeiq3)：400分
