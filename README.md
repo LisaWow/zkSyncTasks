@@ -1,5 +1,8 @@
-Goerli水龙头：
-* https://goerlifaucet.com/
+![Alt text](image-1.png)
+
+水龙头：
+* Goerli: [Alchemy](https://goerlifaucet.com/)
+* Sepolia: [Alchemy](https://sepoliafaucet.com/) / [PoW挖矿](sepolia-faucet.pk910.de)
 
 Galxe:
 * [A+ Role](https://galxe.com/galxecommunity/campaign/GCUTpU7t2T)
@@ -17,7 +20,7 @@ SyncSwap:
 * 【已结束】[zkSync Grand Carnival Week! Join 30,000 limited SyncSwap CAP Airdrop!](https://taskon.xyz/campaign/detail/5551)
 
 EraLend
-* [银河任务（一鱼多吃）](https://galxe.com/eralend/campaign/GCvzAUeVzg)
+* 【已结束】[银河任务（一鱼多吃）](https://galxe.com/eralend/campaign/GCvzAUeVzg)
   * EraLend - SyncSwap 双协议
   * [交互指南](https://twitter.com/yunknkn2/status/1679497749329477633)
     * （前提）进行SyncSwap的ETH-USDC流动性供应
@@ -31,23 +34,16 @@ EraLend
   * 【参考】EraLend积分规则：
   ![Alt text](image.png)
 
-[CrusSwap](https://crus.xyz/)
-* [银河任务](https://galxe.com/crus/campaign/GCD7XUQbEh)（需完成Crus的LP和Swap）
-  * 转发需要@三位朋友
-  * 【彩蛋】完成过Mavericks $10以上的单笔交易和单笔LP（非单边）的，可以申领额外积分和OAT
-* 【注意】Discord要求手机验证
-
 [Satori](https://zksync.satori.finance/)（不支持美国、东亚，[交互教程](https://twitter.com/oldleek_eth/status/1674059322760867846?s=20)）:
 * 【已结束】[银河任务](https://twitter.com/Zlican133061/status/1676515660304875520?s=20)
 * 【注意】Discord要求手机验证
 
 [SynFuture](https://trade.synfutures.com/#/trade):
-* [银河任务](https://galxe.com/synfutures/campaign/GCRW8UWb3M)
-  * 0730截止
+* 【已结束】[银河任务](https://galxe.com/synfutures/campaign/GCRW8UWb3M)
 * 美国、英国、东亚禁止
 
 KaratDAO:
-* 已第一轮空投，Gas过高，参与价值待验证
+* 已两轮空投，Gas过高，参与价值待验证
 * [Airdrop Claim](https://karatdao.com/network/airdrop)
   * 第二轮：2023.8.24 1:00
 * 银河任务
@@ -57,8 +53,7 @@ KaratDAO:
     * 截至2023.7.16
 
 Dmail:
-* [银河活动](https://galxe.com/dmail/campaign/GCVJ1U7r6A)
-  * 0803截止
+* 【已结束】[银河活动](https://galxe.com/dmail/campaign/GCVJ1U7r6A)
 
 NFT:
 * Tabi
@@ -72,10 +67,23 @@ NFT:
 
 KYC:
 * Taiko: **[银河活动（推荐）](https://galxe.com/taiko/)**
-  * Discord需通过Taiko的反机器人测试
-  * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
-  * Qiz1: C-C-B
-  * Qiz2: B-C-C-B-B
+  * [Get Started](https://galxe.com/taiko/campaign/GCeWBUeKCr)
+    * Discord需通过Taiko的反机器人测试
+    * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
+    * Qiz1: C-C-B
+    * Qiz2: B-C-C-B-B
+  * [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904)
+    * 访问: [1](https://galxe.com/taiko/campaign/GCkgZU7MsK), [2](https://galxe.com/taiko/campaign/GCcBxU7vDN), [3](https://galxe.com/taiko/campaign/GCJmxU7URF)
+    * 提供流动性：
+      * 领水: Sepolia 0.1E+
+      * [Bridge](bridge.test.taiko.xyz/#/): Sepolia → Taiko
+      * [提供流动性](swap.l3test.taiko.xyz/#/pool): 0.1ETH → BLL/HORSE/TTKOe三选一
+      * [银河领取](https://galxe.com/taiko/campaign/GCkV5U7pVr): 50 Points & OAT
+    * 访问 & 答题：
+      * [Quiz1](https://galxe.com/taiko/campaign/GCJ6yU7yjs): C-A-A-B-B
+      * [Quiz2](https://galxe.com/taiko/campaign/GChwyU7dSg): B-C-D-B-D
+      * [Quiz3](https://galxe.com/taiko/campaign/GCJsQU7e5V): B-C-B-C-C
+      * [Quiz4](https://galxe.com/taiko/campaign/GCHphUjES6): C-B-C-D-C
   * 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
     * Qiz: B-B-A-C-D
 
@@ -84,9 +92,11 @@ BASE链任务：
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
 
 MISC:
-* [AppleHead银河活动](https://galxe.com/applehead/campaign/GC36RU7Lh3)
-  * 2023.8.24截止
-* [AltLayer银河活动](https://galxe.com/undefined/campaign/GC9tiUeiq3)：400分
+* [EigenLayer](https://www.eigenlayer.xyz/):
+  * **EigenWorlds NFT**: [官方](https://mint.eigenlayer.xyz/)(Gas Limit 130K，截止2003.08.31 00), 
+    * Basic Layer: [mint.fun](https://mint.fun/ethereum/0x8d0802559775C70fb505f22988a4FD4A4f6D3B62)(Gas Limit 87K)
+    * Restaker: 参与过质押（[交互指南1](https://twitter.com/jianshubiji/status/1693908864322949300), [2](https://twitter.com/maik2hello/status/1693920645003006129)）
+* 【已结束】[AltLayer银河活动](https://galxe.com/undefined/campaign/GC9tiUeiq3)：400分
   * 2023.08.16截止
   * Discord需手机验证
   * 教程：[准备工作](https://docs.altlayer.io/altlayer-documentation/rollup-launchpad/altitude-phase-iii-restaking-tier/prerequisite-restake-with-eigenlayer)，[交互工作](https://docs.altlayer.io/altlayer-documentation/rollup-launchpad/altitude-phase-iii-restaking-tier/launching-restaking-trial-flash-layer)
