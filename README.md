@@ -66,7 +66,9 @@ NFT:
 * [Bounce Finance](https://app.bounce.finance/okxActivity/zksyncera/1): 万一的E做一次交互（需要交互广度时可以玩一玩）
 
 链游:
-* [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail): 【已结束】[徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
+* [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail)
+  *【已结束】[徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
+  *[GEM赢取](https://galxe.com/CARVofficial/campaign/GCQ3RUWXqA) 
 
 KYC:
 * Taiko: **[银河活动（推荐）](https://galxe.com/taiko/)** [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
