@@ -75,7 +75,7 @@ KYC:
     * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
     * Qiz1: C-C-B
     * Qiz2: B-C-C-B-B
-  * [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904)
+  * [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904), [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
     * 访问: [1](https://galxe.com/taiko/campaign/GCkgZU7MsK), [2](https://galxe.com/taiko/campaign/GCcBxU7vDN), [3](https://galxe.com/taiko/campaign/GCJmxU7URF)
     * 提供流动性：
       * 领水: Sepolia 0.1E+
