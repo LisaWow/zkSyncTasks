@@ -69,23 +69,29 @@ NFT:
 * [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail): 【已结束】[徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
 
 KYC:
-* Taiko: **[银河活动（推荐）](https://galxe.com/taiko/)**
+* Taiko: **[银河活动（推荐）](https://galxe.com/taiko/)** [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
   * [Get Started](https://galxe.com/taiko/campaign/GCeWBUeKCr)
     * Discord需通过Taiko的反机器人测试
     * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
     * Qiz1: C-C-B
     * Qiz2: B-C-C-B-B
-  * [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904), [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
+  * 测试交易准备
+    * 领水: Sepolia 0.5E+
+    * [添加测试网络和tokens](https://taiko.xyz/docs/guides/build-on-taiko/setup-your-wallet#steps)
+  * [Alpha](https://galxe.com/taiko/campaign/GCKxqU5MwL)(截止2023.9.29):
+    * Quiz: B-B-A-C-D
+    * [Bridge](https://bridge.test.taiko.xyz/): 0.15+ETH Sepolia → Taiko Alpha-3
+    * [Swap](https://swap.test.taiko.xyz/#/swap): 0.1ETH+ ETH → BLL/TTKO/HORSE
+  * [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904)
     * 访问: [1](https://galxe.com/taiko/campaign/GCkgZU7MsK), [2](https://galxe.com/taiko/campaign/GCcBxU7vDN), [3](https://galxe.com/taiko/campaign/GCJmxU7URF)
     * 提供流动性：
-      * 领水: Sepolia 0.1E+
       * [Bridge](https://bridge.test.taiko.xyz/#/): Sepolia → Taiko
-      * [提供流动性](https://swap.l3test.taiko.xyz/#/pool): 0.1ETH → BLL/HORSE/TTKOe三选一
+      * [提供流动性](https://swap.l3test.taiko.xyz/#/pool): 0.1ETH → BLL/HORSE/TTKO三选一
       * [银河领取](https://galxe.com/taiko/campaign/GCkV5U7pVr): 50 Points & OAT
     * 访问 & 答题：
-      * [Quiz1](https://galxe.com/taiko/campaign/GCJ6yU7yjs): C-A-A-B-B
-      * [Quiz2](https://galxe.com/taiko/campaign/GChwyU7dSg): B-C-D-B-D
-      * [Quiz3](https://galxe.com/taiko/campaign/GCJsQU7e5V): B-C-B-C-C
+      * [Quiz1](https://galxe.com/taiko/campaign/GCJ6yU7yjs): D-A-A-B-C
+      * [Quiz2](https://galxe.com/taiko/campaign/GChwyU7dSg): D-C-A-B-D
+      * [Quiz3](https://galxe.com/taiko/campaign/GCJsQU7e5V): D-B-B-C-C
       * [Quiz4](https://galxe.com/taiko/campaign/GCHphUjES6): C-B-C-D-C
   * 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
     * Qiz: B-B-A-C-D
