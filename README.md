@@ -2,7 +2,7 @@
 
 水龙头：
 * Goerli: [Alchemy](https://goerlifaucet.com/) (0.02E/day), [QuickNode](https://faucet.quicknode.com/ethereum/goerli) (0.05E * 2/day, 推荐)
-* Sepolia: [Alchemy](https://sepoliafaucet.com/) (0.5E/day, 推荐) / [QuickNode](https://faucet.quicknode.com/ethereum/sepolia) (0.05E * 2/day, 推荐) / [PoW挖矿](sepolia-faucet.pk910.de)(大约3小时可挖0.05E, 不推荐)
+* Sepolia: [Alchemy](https://sepoliafaucet.com/) (0.5E/day, 推荐) / [QuickNode](https://faucet.quicknode.com/ethereum/sepolia) (0.05E * 2/day, 推荐) / [PoW挖矿](https://sepolia-faucet.pk910.de)(大约3小时可挖0.05E, 不推荐)
 
 Galxe:
 * [A+ Role](https://galxe.com/galxecommunity/campaign/GCUTpU7t2T)
@@ -79,8 +79,8 @@ KYC:
     * 访问: [1](https://galxe.com/taiko/campaign/GCkgZU7MsK), [2](https://galxe.com/taiko/campaign/GCcBxU7vDN), [3](https://galxe.com/taiko/campaign/GCJmxU7URF)
     * 提供流动性：
       * 领水: Sepolia 0.1E+
-      * [Bridge](bridge.test.taiko.xyz/#/): Sepolia → Taiko
-      * [提供流动性](swap.l3test.taiko.xyz/#/pool): 0.1ETH → BLL/HORSE/TTKOe三选一
+      * [Bridge](https://bridge.test.taiko.xyz/#/): Sepolia → Taiko
+      * [提供流动性](https://swap.l3test.taiko.xyz/#/pool): 0.1ETH → BLL/HORSE/TTKOe三选一
       * [银河领取](https://galxe.com/taiko/campaign/GCkV5U7pVr): 50 Points & OAT
     * 访问 & 答题：
       * [Quiz1](https://galxe.com/taiko/campaign/GCJ6yU7yjs): C-A-A-B-B
