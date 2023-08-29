@@ -107,7 +107,16 @@ Scroll链任务：
   * 领水
   * [钱包添加网络](https://scroll.io/portal)
   * [Sepolia桥接](https://scroll.io/bridge): 0.2+ Sepolia ETH
-  * Swap & Liqudity
+  * Swaps & LPs:
+    * [SyncSwap](https://syncswap.xyz/)
+    * [Uniswap](https://uniswap-v3.scroll.io/#/swap)
+    * [Symbiosis](https://testnet.symbiosis.finance/swap?chainIn=Scroll%20Testnet&tokenIn=ETH)
+  * Deploys & NFTs:
+    * [Omnisea](https://omnisea.tech/spaces/SCROLL_ECOSYSTEM)
+    * [NFTs2Me](https://nfts2me.com/)
+    * [仓鼠任务](https://activity.hamsternet.io/)
+    * [thirdweb](https://thirdweb.com/thirdweb.eth/TokenERC20)
+
 
 MISC:
 * [EigenLayer](https://app.eigenlayer.xyz/):
