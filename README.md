@@ -67,8 +67,8 @@ NFT:
 
 链游:
 * [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail)
-  *【已结束】[徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
-  *[GEM赢取](https://galxe.com/CARVofficial/campaign/GCQ3RUWXqA) 
+  * 【已结束】[徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
+  * [GEM赢取](https://galxe.com/CARVofficial/campaign/GCQ3RUWXqA) : 2023.08.31
 
 KYC:
 * Taiko: **[银河活动（推荐）](https://galxe.com/taiko/)** [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
@@ -101,6 +101,13 @@ KYC:
 BASE链任务：
 * [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
+
+Scroll链任务：
+* Sepolia测试网：
+  * 领水
+  * [钱包添加网络](https://scroll.io/portal)
+  * [Sepolia桥接](https://scroll.io/bridge): 0.2+ Sepolia ETH
+  * Swap & Liqudity
 
 MISC:
 * [EigenLayer](https://app.eigenlayer.xyz/):
