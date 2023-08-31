@@ -106,9 +106,9 @@ LayerZero任务：
     * [Pandra](https://zkbridge.com/gallery/pandra): Polygon → Celo(0.4U), Core(0.5U), Mantle(0.8U)
 
 Linea生态：
-* DEX：SyncSwap、[HorizonDEX](app.horizondex.io/swap)、[EchoDEX](www.echodex.io/swap)、[OpenOcean](app.openocean.finance)、[KyberSwap](kyberswap.com/swap/linea/eth-to-busd)、[Symbiosis](app.symbiosis.finance)、[MesProtocol](app.mesprotocol.com/spot/ETH-USDC)、[iZUMi](izumi.finance/trade/swap)、[VeloCore](linea.velocore.xyz/swap)
-* DeFi：[LineaBank](lineabank.finance/bank)
-* NFT：[BiLinear](www.bilinear.io)、[Zonic](zonic.app/collection/linea-voyage)
+* DEX：SyncSwap、[HorizonDEX](https://app.horizondex.io/swap)、[EchoDEX](https://www.echodex.io/swap)、[OpenOcean](https://app.openocean.finance)、[KyberSwap](https://kyberswap.com/swap/linea/eth-to-busd)、[Symbiosis](https://app.symbiosis.finance)、[MesProtocol](https://app.mesprotocol.com/spot/ETH-USDC)、[iZUMi](https://izumi.finance/trade/swap)、[VeloCore](https://linea.velocore.xyz/swap)
+* DeFi：[LineaBank](https://lineabank.finance/bank)
+* NFT：[BiLinear](https://www.bilinear.io)、[Zonic](https://zonic.app/collection/linea-voyage)
 * GameFi：[Battlemon](https://battlemon.com)、[Tatarot](https://tatarot.ai)、[Zypher](https://app.zypher.game)
 
 BASE链任务：
