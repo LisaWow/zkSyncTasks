@@ -98,6 +98,19 @@ KYC:
   * 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
     * Qiz: B-B-A-C-D
 
+LayerZero任务：
+* NFTs:
+  * [OminiX](https://omni-x.io/drops): BASE → Metis, ≈0.45U
+  * [Merkly](https://minter.merkly.com/): BASE → KAVA, ≈0.82U
+  * zkBridge
+    * [Pandra](https://zkbridge.com/gallery/pandra): Polygon → Celo(0.4U), Core(0.5U), Mantle(0.8U)
+
+Linea生态：
+* DEX：SyncSwap、[HorizonDEX](app.horizondex.io/swap)、[EchoDEX](www.echodex.io/swap)、[OpenOcean](app.openocean.finance)、[KyberSwap](kyberswap.com/swap/linea/eth-to-busd)、[Symbiosis](app.symbiosis.finance)、[MesProtocol](app.mesprotocol.com/spot/ETH-USDC)、[iZUMi](izumi.finance/trade/swap)、[VeloCore](linea.velocore.xyz/swap)
+* DeFi：[LineaBank](lineabank.finance/bank)
+* NFT：[BiLinear](www.bilinear.io)、[Zonic](zonic.app/collection/linea-voyage)
+* GameFi：[Battlemon](https://battlemon.com)、[Tatarot](https://tatarot.ai)、[Zypher](https://app.zypher.game)
+
 BASE链任务：
 * [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
@@ -108,11 +121,11 @@ Scroll链任务：
   * [钱包添加网络](https://scroll.io/portal)
   * [Sepolia桥接](https://scroll.io/bridge): 0.2+ Sepolia ETH
   * Swaps & LPs:
-    * [SyncSwap](https://syncswap.xyz/)
-    * [Uniswap](https://uniswap-v3.scroll.io/#/swap)
-    * [Symbiosis](https://testnet.symbiosis.finance/swap?chainIn=Scroll%20Testnet&tokenIn=ETH)
+    * [Symbiosis](https://testnet.symbiosis.finance/swap?chainIn=Scroll%20Testnet&tokenIn=ETH): 跨链（Scroll Sepolia → ScrollAlhpa）, ETH <-> WETH
+    * [SyncSwap](https://syncswap.xyz/): ETH <-> USDC, LP
+    * [Uniswap](https://uniswap-v3.scroll.io/#/swap): ETH <-> USDC, LP
   * Deploys & NFTs:
-    * [Omnisea](https://omnisea.tech/spaces/SCROLL_ECOSYSTEM)
+    * [Omnisea](https://omnisea.tech/spaces/SCROLL_ECOSYSTEM): Mint 1+
     * [NFTs2Me](https://nfts2me.com/)
     * [仓鼠任务](https://activity.hamsternet.io/)
     * [thirdweb](https://thirdweb.com/thirdweb.eth/TokenERC20)
