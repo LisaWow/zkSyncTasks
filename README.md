@@ -117,7 +117,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 ### StarkNet
 StarkNet生态
 * Bridge: [StarkGate](https://starkgate.starknet.io/)
-* DEX: [MySwap](https://www.myswap.xyz/), [JediSwap](https://app.jediswap.xyz/), [AVNU](https://app.avnu.fi/en), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
+* DEX: [mySwap](https://www.myswap.xyz/), [JediSwap](https://app.jediswap.xyz/), [AVNU](https://app.avnu.fi/en), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
 * DeFi: [zkLend](https://app.zklend.com/)
 * DMail
 * Domain: [StartnetID](https://app.starknet.id/)
