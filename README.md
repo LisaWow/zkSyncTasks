@@ -11,13 +11,17 @@ Galxe:
   * [QAs](Galxe_APlus_Role_QAs.md)
   * [推荐阅读](https://blog.galxe.com/galxe-loyalty-points-system-redefining-web3-loyalty-programs-135a159dcb4c)
 
+## zkSync 任务
 zkSync官方：
 * [官方NFT铸造](https://zksync-mint.summon.xyz/)
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
 
+### 跨链类
 Orbiter:
 * [银河奥德赛](https://galxe.com/OrbiterFinance/campaign/GCUcTUiTut): 2023.09.07结束
+
+### DeFi类
 
 SyncSwap:
 * 【已结束】[zkSync Grand Carnival Week! Join 30,000 limited SyncSwap CAP Airdrop!](https://taskon.xyz/campaign/detail/5551)
@@ -46,6 +50,8 @@ EraLend
 * 【已结束】[银河任务](https://galxe.com/synfutures/campaign/GCRW8UWb3M)
 * 美国、英国、东亚禁止
 
+### DID类
+
 KaratDAO:
 * 已两轮空投，Gas过高，参与价值待验证
 * [Airdrop Claim](https://karatdao.com/network/airdrop)
@@ -70,69 +76,83 @@ NFT:
   * 【已结束】[徽章认领](https://twitter.com/maik2hello/status/1676540301819920384?s=20)
   * [GEM赢取](https://galxe.com/CARVofficial/campaign/GCQ3RUWXqA) : 2023.08.31
 
-KYC:
-* Taiko: **[银河活动（推荐）](https://galxe.com/taiko/)** [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
-  * [Get Started](https://galxe.com/taiko/campaign/GCeWBUeKCr)
-    * Discord需通过Taiko的反机器人测试
-    * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
-    * Qiz1: C-C-B
-    * Qiz2: B-C-C-B-B
-  * 测试交易准备
-    * 领水: Sepolia 0.5E+
-    * [添加测试网络和tokens](https://taiko.xyz/docs/guides/build-on-taiko/setup-your-wallet#steps)
-  * [Alpha](https://galxe.com/taiko/campaign/GCKxqU5MwL)(截止2023.9.29):
-    * Quiz: B-B-A-C-D
-    * [Bridge](https://bridge.test.taiko.xyz/): 0.15+ETH Sepolia → Taiko Alpha-3
-    * [Swap](https://swap.test.taiko.xyz/#/swap): 0.1ETH+ ETH → BLL/TTKO/HORSE
-  * [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904)
-    * 访问: [1](https://galxe.com/taiko/campaign/GCkgZU7MsK), [2](https://galxe.com/taiko/campaign/GCcBxU7vDN), [3](https://galxe.com/taiko/campaign/GCJmxU7URF)
-    * 提供流动性：
-      * [Bridge](https://bridge.test.taiko.xyz/#/): Sepolia → Taiko
-      * [提供流动性](https://swap.l3test.taiko.xyz/#/pool): 0.1ETH → BLL/HORSE/TTKO三选一
-      * [银河领取](https://galxe.com/taiko/campaign/GCkV5U7pVr): 50 Points & OAT
-    * 访问 & 答题：
-      * [Quiz1](https://galxe.com/taiko/campaign/GCJ6yU7yjs): D-A-A-B-C
-      * [Quiz2](https://galxe.com/taiko/campaign/GChwyU7dSg): D-C-A-B-D
-      * [Quiz3](https://galxe.com/taiko/campaign/GCJsQU7e5V): D-B-B-C-C
-      * [Quiz4](https://galxe.com/taiko/campaign/GCHphUjES6): C-B-C-D-C
-  * 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
-    * Qiz: B-B-A-C-D
+## 其他推荐
+Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**: 
+> [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
+>【附】[空投交互指南](https://twitter.com/leshka_eth/status/1689944405573292032)
+* [Get Started](https://galxe.com/taiko/campaign/GCeWBUeKCr)
+  * Discord需通过Taiko的反机器人测试
+  * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
+  * Qiz1: C-C-B
+  * Qiz2: B-C-C-B-B
+* 测试交易准备
+  * 领水: Sepolia 0.5E+
+  * [添加测试网络和tokens](https://taiko.xyz/docs/guides/build-on-taiko/setup-your-wallet#steps)
+* [Alpha](https://galxe.com/taiko/campaign/GCKxqU5MwL)(截止2023.9.29):
+  * Quiz: B-B-A-C-D
+  * [Bridge](https://bridge.test.taiko.xyz/): 0.15+ETH Sepolia → Taiko Alpha-3
+  * [Swap](https://swap.test.taiko.xyz/#/swap): 0.1ETH+ ETH → BLL/TTKO/HORSE
+* [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904)
+  * 访问: [1](https://galxe.com/taiko/campaign/GCkgZU7MsK), [2](https://galxe.com/taiko/campaign/GCcBxU7vDN), [3](https://galxe.com/taiko/campaign/GCJmxU7URF)
+  * 提供流动性：
+    * [Bridge](https://bridge.test.taiko.xyz/#/): Sepolia → Taiko
+    * [提供流动性](https://swap.l3test.taiko.xyz/#/pool): 0.1ETH → BLL/HORSE/TTKO三选一
+    * [银河领取](https://galxe.com/taiko/campaign/GCkV5U7pVr): 50 Points & OAT
+  * 访问 & 答题：
+    * [Quiz1](https://galxe.com/taiko/campaign/GCJ6yU7yjs): D-A-A-B-C
+    * [Quiz2](https://galxe.com/taiko/campaign/GChwyU7dSg): D-C-A-B-D
+    * [Quiz3](https://galxe.com/taiko/campaign/GCJsQU7e5V): D-B-B-C-C
+    * [Quiz4](https://galxe.com/taiko/campaign/GCHphUjES6): C-B-C-D-C
+* 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
+  * Qiz: B-B-A-C-D
 
-LayerZero任务：
+## 其他重要生态
+### LayerZero
 * NFTs:
   * [OminiX](https://omni-x.io/drops): BASE → Metis, ≈0.45U
   * [Merkly](https://minter.merkly.com/): BASE → KAVA, ≈0.82U
   * zkBridge
     * [Pandra](https://zkbridge.com/gallery/pandra): Polygon → Celo(0.4U), Core(0.5U), Mantle(0.8U)
 
-Linea生态：
+### StarkNet
+StarkNet生态
+* Bridge: [StarkGate](https://starkgate.starknet.io/)
+* DEX: [MySwap](https://www.myswap.xyz/), [JediSwap](https://app.jediswap.xyz/), [AVNU](https://app.avnu.fi/en), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
+* DeFi: [zkLend](https://app.zklend.com/)
+* DMail
+* Domain: [StartnetID](https://app.starknet.id/)
+
+### Linea
+Linea生态
 * DEX：SyncSwap、[HorizonDEX](https://app.horizondex.io/swap)、[EchoDEX](https://www.echodex.io/swap)、[OpenOcean](https://app.openocean.finance)、[KyberSwap](https://kyberswap.com/swap/linea/eth-to-busd)、[Symbiosis](https://app.symbiosis.finance)、[MesProtocol](https://app.mesprotocol.com/spot/ETH-USDC)、[iZUMi](https://izumi.finance/trade/swap)、[VeloCore](https://linea.velocore.xyz/swap)
 * DeFi：[LineaBank](https://lineabank.finance/bank)
 * NFT：[BiLinear](https://www.bilinear.io)、[Zonic](https://zonic.app/collection/linea-voyage)
 * GameFi：[Battlemon](https://battlemon.com)、[Tatarot](https://tatarot.ai)、[Zypher](https://app.zypher.game)
 
+### Base
 BASE链任务：
 * [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
 
-Scroll链任务：
-* Sepolia测试网：
-  * 领水
-  * [钱包添加网络](https://scroll.io/portal)
-  * [Sepolia桥接](https://scroll.io/bridge): 0.2+ Sepolia ETH
-  * Swaps & LPs:
-    * [Symbiosis](https://testnet.symbiosis.finance/swap?chainIn=Scroll%20Testnet&tokenIn=ETH): 跨链（Scroll Sepolia → ScrollAlhpa）, ETH <-> WETH
-    * [SyncSwap](https://syncswap.xyz/): ETH <-> USDC, LP
-    * [Uniswap](https://uniswap-v3.scroll.io/#/swap): ETH <-> USDC, LP
-  * Deploys & NFTs:
-    * [Omnisea](https://omnisea.tech/spaces/SCROLL_ECOSYSTEM): Mint 1+
-    * [NFTs2Me](https://nfts2me.com/)
-    * [仓鼠任务](https://activity.hamsternet.io/)
-    * [thirdweb](https://thirdweb.com/thirdweb.eth/TokenERC20)
+### Scroll
+
+Sepolia测试网：
+* 领水
+* [钱包添加网络](https://scroll.io/portal)
+* [Sepolia桥接](https://scroll.io/bridge): 0.2+ Sepolia ETH
+* Swaps & LPs:
+  * [Symbiosis](https://testnet.symbiosis.finance/swap?chainIn=Scroll%20Testnet&tokenIn=ETH): 跨链（Scroll Sepolia → ScrollAlhpa）, ETH <-> WETH
+  * [SyncSwap](https://syncswap.xyz/): ETH <-> USDC, LP
+  * [Uniswap](https://uniswap-v3.scroll.io/#/swap): ETH <-> USDC, LP
+* Deploys & NFTs:
+  * [Omnisea](https://omnisea.tech/spaces/SCROLL_ECOSYSTEM): Mint 1+
+  * [NFTs2Me](https://nfts2me.com/)
+  * [仓鼠任务](https://activity.hamsternet.io/)
+  * [thirdweb](https://thirdweb.com/thirdweb.eth/TokenERC20)
 
 
-MISC:
-* [EigenLayer](https://app.eigenlayer.xyz/):
+### EigenLayer生态
+[EigenLayer](https://app.eigenlayer.xyz/)生态任务:
   * **EigenWorlds NFT**: [官方](https://mint.eigenlayer.xyz/)(Gas Limit 130K, 实际87K。截止2003.08.31 00), 
     * Basic Layer: [mint.fun](https://mint.fun/ethereum/0x8d0802559775C70fb505f22988a4FD4A4f6D3B62)(Gas Limit 87K)
     * Restaker: 参与过质押（[交互指南1](https://twitter.com/jianshubiji/status/1693908864322949300), [2](https://twitter.com/maik2hello/status/1693920645003006129)）
