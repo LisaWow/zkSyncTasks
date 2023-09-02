@@ -115,18 +115,19 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
     * [Pandra](https://zkbridge.com/gallery/pandra): Polygon → Celo(0.4U), Core(0.5U), Mantle(0.8U)
 
 ### StarkNet
-StarkNet生态
-* Bridge: [StarkGate](https://starkgate.starknet.io/)
-* DEX: [mySwap](https://www.myswap.xyz/), [JediSwap](https://app.jediswap.xyz/), [AVNU](https://app.avnu.fi/en), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
+[StarkNet生态](https://www.starknet-ecosystem.com/) ([Argent版](https://www.dappland.com/))
+* Wallets: [Argent X](https://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb), [Braavos](https://chrome.google.com/webstore/detail/braavos-smart-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma)
+* Bridges: [StarkGate](https://starkgate.starknet.io/), Orbiter, Layerswap
+* DEXs: [AVNU](https://app.avnu.fi/en), [JediSwap](https://app.jediswap.xyz/), [mySwap](https://www.myswap.xyz/), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
 * DeFi: [zkLend](https://app.zklend.com/)
 * DMail
 * Domain: [StartnetID](https://app.starknet.id/)
 
 ### Linea
 Linea生态
-* DEX：SyncSwap、[HorizonDEX](https://app.horizondex.io/swap)、[EchoDEX](https://www.echodex.io/swap)、[OpenOcean](https://app.openocean.finance)、[KyberSwap](https://kyberswap.com/swap/linea/eth-to-busd)、[Symbiosis](https://app.symbiosis.finance)、[MesProtocol](https://app.mesprotocol.com/spot/ETH-USDC)、[iZUMi](https://izumi.finance/trade/swap)、[VeloCore](https://linea.velocore.xyz/swap)
+* DEXs：SyncSwap、[HorizonDEX](https://app.horizondex.io/swap)、[EchoDEX](https://www.echodex.io/swap)、[OpenOcean](https://app.openocean.finance)、[KyberSwap](https://kyberswap.com/swap/linea/eth-to-busd)、[Symbiosis](https://app.symbiosis.finance)、[MesProtocol](https://app.mesprotocol.com/spot/ETH-USDC)、[iZUMi](https://izumi.finance/trade/swap)、[VeloCore](https://linea.velocore.xyz/swap)
 * DeFi：[LineaBank](https://lineabank.finance/bank)
-* NFT：[BiLinear](https://www.bilinear.io)、[Zonic](https://zonic.app/collection/linea-voyage)
+* NFTs：[BiLinear](https://www.bilinear.io)、[Zonic](https://zonic.app/collection/linea-voyage)
 * GameFi：[Battlemon](https://battlemon.com)、[Tatarot](https://tatarot.ai)、[Zypher](https://app.zypher.game)
 
 ### Base
