@@ -11,11 +11,27 @@ Galxe:
   * [QAs](Galxe_APlus_Role_QAs.md)
   * [推荐阅读](https://blog.galxe.com/galxe-loyalty-points-system-redefining-web3-loyalty-programs-135a159dcb4c)
 
+## zkSync 生态
+
+跨链: [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel)
+
+Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap)
+
+聚合Swaps: [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4)
+
+DeFis: [EraLend](https://app.eralend.com/), [SynFutures](https://trade.synfutures.com/#/trade), [Satori](https://zksync.satori.finance/), [zkFox](https://zkfox.io/#/bank)
+
+NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account)
+
+DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/), [ZNS](https://zks.network/?)
+
+
 ## zkSync 任务
 zkSync官方：
 * [官方NFT铸造](https://zksync-mint.summon.xyz/)
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
+
 
 ### 跨链类
 Orbiter:
@@ -66,6 +82,7 @@ Dmail:
 
 NFT:
 * Tabi
+  * 官网: [Sailor](https://tabi.lol/quest), [Reddit](https://tabi.lol/reddit)
   * [Mermaid](https://tabi.lol/mermaid)（需要注册Reddit），及[银河活动](https://galxe.com/TabiNFT/campaign/GCHKUUWp5m)（申领网为BSC）
     * [关联银河活动](https://galxe.com/TabiNFT/campaign/GCyAfUNdGr)（仍可部分申领）
   * [Partnership - 银河OAT](https://galxe.com/TabiNFT/campaign/GCwETU7iJL)(0723截止)
@@ -117,7 +134,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 ### StarkNet
 [StarkNet生态](https://www.starknet-ecosystem.com/) ([Argent版](https://www.dappland.com/))
 * Wallets: [Argent X](https://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb), [Braavos](https://chrome.google.com/webstore/detail/braavos-smart-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma)
-* Bridges: [StarkGate](https://starkgate.starknet.io/), Orbiter, Layerswap
+* Bridges: [StarkGate](https://starkgate.starknet.io/), [Orbiter](https://www.orbiter.finance/?source=zkSync%20Era&dest=Starknet), Layerswap
 * DEXs: [AVNU](https://app.avnu.fi/en), [JediSwap](https://app.jediswap.xyz/), [mySwap](https://www.myswap.xyz/), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
 * DeFi: [zkLend](https://app.zklend.com/)
 * DMail
