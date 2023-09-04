@@ -13,7 +13,7 @@ Galxe:
 
 ## zkSync 生态
 
-跨链: [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel)
+跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel)
 
 Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap)
 
@@ -25,6 +25,7 @@ NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](ht
 
 DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/), [ZNS](https://zks.network/?)
 
+zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/), [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)
 
 ## zkSync 任务
 zkSync官方：
