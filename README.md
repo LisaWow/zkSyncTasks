@@ -25,7 +25,7 @@ NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](ht
 
 DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/), [ZNS](https://zks.network/?)
 
-zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/), [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)
+zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/)（[操作指南](https://mirror.xyz/doger.eth/5rsvFS3GWleRE0Q-1EvbUW5DRQATYBHH4Vz0cNQLefE%E2%80%A6)）, [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)(滑点过大，不求见)
 
 ## zkSync 任务
 zkSync官方：
