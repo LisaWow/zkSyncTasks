@@ -17,9 +17,9 @@ Galxe:
 
 Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap)
 
-聚合Swaps: [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4)
+聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4)
 
-DeFis: [EraLend](https://app.eralend.com/), [SynFutures](https://trade.synfutures.com/#/trade), [Satori](https://zksync.satori.finance/), [zkFox](https://zkfox.io/#/bank)
+DeFis: [EraLend](https://app.eralend.com/), OKX([SyncSwap U/E](https://www.okx.com/web3/defi/detail/20711), [SpaceFi U/E](https://www.okx.com/web3/defi/detail/21010)), [SynFutures](https://trade.synfutures.com/#/trade), [Satori](https://zksync.satori.finance/), [zkFox](https://zkfox.io/#/bank)
 
 NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account)
 
@@ -160,8 +160,9 @@ Sepolia测试网：
 * [Sepolia桥接](https://scroll.io/bridge): 0.2+ Sepolia ETH
 * Swaps & LPs:
   * [Symbiosis](https://testnet.symbiosis.finance/swap?chainIn=Scroll%20Testnet&tokenIn=ETH): 跨链（Scroll Sepolia → ScrollAlhpa）, ETH <-> WETH
-  * [SyncSwap](https://syncswap.xyz/): ETH <-> USDC, LP
-  * [Uniswap](https://uniswap-v3.scroll.io/#/swap): ETH <-> USDC, LP
+  * [SyncSwap](https://syncswap.xyz/): ETH <-> USDC / WETH, LP
+    > 注意切换至`Scroll Alpha`网络
+  * [Uniswap](https://uniswap-v3.scroll.io/#/swap): ETH <-> USDC / WETH, LP
 * Deploys & NFTs:
   * [Omnisea](https://omnisea.tech/spaces/SCROLL_ECOSYSTEM): Mint 1+
   * [NFTs2Me](https://nfts2me.com/)
