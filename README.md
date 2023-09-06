@@ -15,15 +15,17 @@ Galxe:
 
 跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel)
 
-Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap)
+Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap), [veSync](https://app.vesync.finance/swap)
 
-聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4)
+聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4), [OpenOcean](https://app.openocean.finance/CLASSIC#/ZKSYNC/ETH/USDC)
 
-DeFis: [EraLend](https://app.eralend.com/), OKX([SyncSwap U/E](https://www.okx.com/web3/defi/detail/20711), [SpaceFi U/E](https://www.okx.com/web3/defi/detail/21010)), [SynFutures](https://trade.synfutures.com/#/trade), [Satori](https://zksync.satori.finance/), [zkFox](https://zkfox.io/#/bank)
+DeFis: [EraLend](https://app.eralend.com/), OKX([SyncSwap U/E](https://www.okx.com/web3/defi/detail/20711), [SpaceFi U/E](https://www.okx.com/web3/defi/detail/21010)), [SynFutures](https://trade.synfutures.com/#/trade), [Satori](https://zksync.satori.finance/), [zkFox](https://zkfox.io/#/bank), [Reactor Fusion](https://app.reactorfusion.xyz/)
 
-NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account)
+NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account), [Kreatorland](https://kreatorland.com/)
 
 DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/), [ZNS](https://zks.network/?)
+
+工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354)）
 
 zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/)（[操作指南](https://mirror.xyz/doger.eth/5rsvFS3GWleRE0Q-1EvbUW5DRQATYBHH4Vz0cNQLefE%E2%80%A6)）, [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)(滑点过大，不求见)
 
@@ -37,6 +39,9 @@ zkSync官方：
 ### 跨链类
 Orbiter:
 * [银河奥德赛](https://galxe.com/OrbiterFinance/campaign/GCUcTUiTut): 2023.09.07结束
+
+zkLink:
+* [银河奥德赛](https://galxe.com/zkLink/campaign/GCti5UjiD1): [细节指南](https://twitter.com/duola_eth/status/1698560390987452520)
 
 ### DeFi类
 
@@ -110,7 +115,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
   * Quiz: B-B-A-C-D
   * [Bridge](https://bridge.test.taiko.xyz/): 0.15+ETH Sepolia → Taiko Alpha-3
   * [Swap](https://swap.test.taiko.xyz/#/swap): 0.1ETH+ ETH → BLL/TTKO/HORSE
-* [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904)
+* [L3 testnet](https://galxe.com/taiko/campaign/GCgaAU7Txt): [交互指南](https://twitter.com/CoinToEarn/status/1689527607308795904), [2](https://twitter.com/VIP8888883/status/1699274751288754241)
   * 访问: [1](https://galxe.com/taiko/campaign/GCkgZU7MsK), [2](https://galxe.com/taiko/campaign/GCcBxU7vDN), [3](https://galxe.com/taiko/campaign/GCJmxU7URF)
   * 提供流动性：
     * [Bridge](https://bridge.test.taiko.xyz/#/): Sepolia → Taiko
@@ -148,6 +153,8 @@ Linea生态
 * NFTs：[BiLinear](https://www.bilinear.io)、[Zonic](https://zonic.app/collection/linea-voyage)
 * GameFi：[Battlemon](https://battlemon.com)、[Tatarot](https://tatarot.ai)、[Zypher](https://app.zypher.game)
 
+[Layer3任务](https://layer3.xyz/quests/explore-linea-with-layer3)
+
 ### Base
 BASE链任务：
 * [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
@@ -169,6 +176,7 @@ Sepolia测试网：
   * [NFTs2Me](https://nfts2me.com/)
   * [仓鼠任务](https://activity.hamsternet.io/)
   * [thirdweb](https://thirdweb.com/thirdweb.eth/TokenERC20)
+* [Layer3任务](https://layer3.xyz/quests/scroll-q1), [2](https://layer3.xyz/quests/scroll-q2)(需要钱包里有0.005E，反女巫检查)
 
 
 ### EigenLayer生态
