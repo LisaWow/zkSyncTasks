@@ -1,4 +1,5 @@
 ![Alt text](image-1.png)
+[![Alt text](image-2.png)](https://www.figma.com/file/ISCu3OY8VJsPPQsWG1E7t4/Untitled?type=whiteboard&node-id=0-1)
 
 水龙头：
 * Goerli: [Alchemy](https://goerlifaucet.com/) (0.02E/day), [QuickNode](https://faucet.quicknode.com/ethereum/goerli) (0.05E * 2/day, 推荐)
@@ -27,7 +28,7 @@ DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/)
 
 工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354)）
 
-zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/)（[操作指南](https://mirror.xyz/doger.eth/5rsvFS3GWleRE0Q-1EvbUW5DRQATYBHH4Vz0cNQLefE%E2%80%A6)）, [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)(滑点过大，不求见)
+zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/)（[操作指南](https://mirror.xyz/doger.eth/5rsvFS3GWleRE0Q-1EvbUW5DRQATYBHH4Vz0cNQLefE%E2%80%A6)）, [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)(滑点过大，不推荐)
 
 ## zkSync 任务
 zkSync官方：
@@ -159,6 +160,7 @@ Linea生态
 BASE链任务：
 * [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
+  * 完成第一个主网之夏第一个NFT后：[Layer3活动](https://layer3.xyz/quests/claim-your-onchain-summer-nft)
 
 ### Scroll
 
