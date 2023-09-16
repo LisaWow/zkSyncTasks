@@ -26,7 +26,7 @@ NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](ht
 
 DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/), [ZNS](https://zks.network/?)
 
-工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354)）
+工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354)）, [NFTs2Me](https://nfts2me.com/chain/zksync-era/)
 
 zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/)（[操作指南](https://mirror.xyz/doger.eth/5rsvFS3GWleRE0Q-1EvbUW5DRQATYBHH4Vz0cNQLefE%E2%80%A6)）, [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)(滑点过大，不推荐)
 
@@ -145,7 +145,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * DEXs: [AVNU](https://app.avnu.fi/en), [JediSwap](https://app.jediswap.xyz/), [mySwap](https://www.myswap.xyz/), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
 * DeFi: [zkLend](https://app.zklend.com/)
 * DMail
-* Domain: [StartnetID](https://app.starknet.id/)
+* Domain: [StartnetID](https://app.starknet.id/)（[1美元5位域名活动](https://app.starknet.id/quantumleap), 20230917结束）
 
 ### Linea
 Linea生态
@@ -160,7 +160,8 @@ Linea生态
 BASE链任务：
 * [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
-  * 完成第一个主网之夏第一个NFT后：[Layer3活动](https://layer3.xyz/quests/claim-your-onchain-summer-nft)
+  * [直接购买NFT](https://nft.coinbase.com/collection/base/0xEa2a41c02fA86A4901826615F9796e603C6a4491)
+  * 【已结束】完成第一个主网之夏第一个NFT后：[Layer3活动](https://layer3.xyz/quests/claim-your-onchain-summer-nft)
 
 ### Scroll
 
