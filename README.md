@@ -14,17 +14,17 @@ Galxe:
 
 ## zkSync 生态
 
-跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel)
+跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel), [WOOFI](https://fi.woo.org/swap/)(非美)
 
 Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap), [veSync](https://app.vesync.finance/swap)
 
-聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4), [OpenOcean](https://app.openocean.finance/CLASSIC#/ZKSYNC/ETH/USDC)
+聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [ODOS](https://app.odos.xyz/), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4), [OpenOcean](https://app.openocean.finance/CLASSIC#/ZKSYNC/ETH/USDC)
 
 DeFis: [EraLend](https://app.eralend.com/), OKX([SyncSwap U/E](https://www.okx.com/web3/defi/detail/20711), [SpaceFi U/E](https://www.okx.com/web3/defi/detail/21010)), [SynFutures](https://trade.synfutures.com/#/trade), [Satori](https://zksync.satori.finance/), [zkFox](https://zkfox.io/#/bank), [Reactor Fusion](https://app.reactorfusion.xyz/)
 
 NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account), [Kreatorland](https://kreatorland.com/)
 
-DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/), [ZNS](https://zks.network/?)
+DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?)
 
 工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354)）, [NFTs2Me](https://nfts2me.com/chain/zksync-era/)
 
@@ -94,6 +94,9 @@ NFT:
     * [关联银河活动](https://galxe.com/TabiNFT/campaign/GCyAfUNdGr)（仍可部分申领）
   * [Partnership - 银河OAT](https://galxe.com/TabiNFT/campaign/GCwETU7iJL)(0723截止)
 * [Bounce Finance](https://app.bounce.finance/okxActivity/zksyncera/1): 万一的E做一次交互（需要交互广度时可以玩一玩）
+* 【推荐】直接领NFT：
+  * [Apple Head](20230921止)
+  * [Sleep Finance](20231030止)
 
 链游:
 * [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail)
@@ -180,7 +183,7 @@ Sepolia测试网：
   * [仓鼠任务](https://activity.hamsternet.io/)
   * [thirdweb](https://thirdweb.com/thirdweb.eth/TokenERC20)
 * [Layer3任务](https://layer3.xyz/quests/scroll-q1), [2](https://layer3.xyz/quests/scroll-q2)(需要钱包里有0.005E，反女巫检查)
-
+* [银河活动官方指南](https://twitter.com/Galxe/status/1701627908304130216)
 
 ### EigenLayer生态
 [EigenLayer](https://app.eigenlayer.xyz/)生态任务:
