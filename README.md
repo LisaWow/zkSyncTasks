@@ -122,7 +122,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
   * Qiz2: B-C-C-B-B
 * 测试交易准备
   * 领水: Sepolia 0.5E+
-  * [添加测试网络和tokens](https://taiko.xyz/docs/guides/build-on-taiko/setup-your-wallet#steps)
+  * [添加测试网络和tokens](https://taiko.xyz/docs/guides/setup-your-wallet#steps)
 * [Alpha](https://galxe.com/taiko/campaign/GCKxqU5MwL)(截止2023.9.29):
   * Quiz: B-B-A-C-D
   * [Bridge](https://bridge.test.taiko.xyz/): 0.15+ETH Sepolia → Taiko Alpha-3
