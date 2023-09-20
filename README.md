@@ -95,8 +95,8 @@ NFT:
   * [Partnership - 银河OAT](https://galxe.com/TabiNFT/campaign/GCwETU7iJL)(0723截止)
 * [Bounce Finance](https://app.bounce.finance/okxActivity/zksyncera/1): 万一的E做一次交互（需要交互广度时可以玩一玩）
 * 【推荐】直接领NFT：
-  * [Apple Head](20230921止)
-  * [Sleep Finance](20231030止)
+  * [Apple Head](https://galxe.com/applehead/campaign/GCujfUrRvw)(20230921止)
+  * [Sleep Finance](https://galxe.com/sleepfinance/campaign/GC571U2HZj)(20231030止)
 
 链游:
 * [Carv](https://carv.io/events/b603f00f-ee4a-5e0c-9dac-2912c4cee384/detail)
