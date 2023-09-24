@@ -24,11 +24,13 @@ DeFis: [EraLend](https://app.eralend.com/), OKX([SyncSwap U/E](https://www.okx.c
 
 NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account), [Kreatorland](https://kreatorland.com/)
 
-DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?)
+DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?), [OpenName](https://app.open.name/)
 
 工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354)）, [NFTs2Me](https://nfts2me.com/chain/zksync-era/)
 
 zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/)（[操作指南](https://mirror.xyz/doger.eth/5rsvFS3GWleRE0Q-1EvbUW5DRQATYBHH4Vz0cNQLefE%E2%80%A6)）, [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)(滑点过大，不推荐)
+
+![Alt text](image-3.png)
 
 ## zkSync 任务
 zkSync官方：
@@ -143,16 +145,19 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 
 ## 其他重要生态
 ### LayerZero
+![Alt text](image-5.png)
+* Swaps:
+  * [testnet](https://testnetbridge.com/): Op/Arb E -> Goerli
 * NFTs:
   * [OminiX](https://omni-x.io/drops): BASE → Metis, ≈0.45U
   * [Merkly](https://minter.merkly.com/): BASE → KAVA, ≈0.82U
-  * zkBridge
+  * [zkBridge](https://zkbridge.com/loyalty)
     * [Pandra](https://zkbridge.com/gallery/pandra): Polygon → Celo(0.4U), Core(0.5U), Mantle(0.8U)
 
 ### StarkNet
 [StarkNet生态](https://www.starknet-ecosystem.com/) ([Argent版](https://www.dappland.com/))
 * Wallets: [Argent X](https://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb), [Braavos](https://chrome.google.com/webstore/detail/braavos-smart-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma)
-* Bridges: [StarkGate](https://starkgate.starknet.io/), [Orbiter](https://www.orbiter.finance/?source=zkSync%20Era&dest=Starknet), Layerswap
+* Bridges: [StarkGate](https://starkgate.starknet.io/), [Orbiter](https://www.orbiter.finance/?source=zkSync%20Era&dest=Starknet), Layerswap, [Owlto](https://owlto.finance/bridge)([价目](https://twitter.com/jianshubiji/status/1704753400527872268))
 * DEXs: [AVNU](https://app.avnu.fi/en), [JediSwap](https://app.jediswap.xyz/), [mySwap](https://www.myswap.xyz/), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
 * DeFi: [zkLend](https://app.zklend.com/)
 * DMail
