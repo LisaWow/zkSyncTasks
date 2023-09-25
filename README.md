@@ -12,6 +12,10 @@ Galxe:
   * [QAs](Galxe_APlus_Role_QAs.md)
   * [推荐阅读](https://blog.galxe.com/galxe-loyalty-points-system-redefining-web3-loyalty-programs-135a159dcb4c)
 
+打卡：
+* [Dmail](https://mail.dmail.ai/compose)
+* [SecondLive](https://secondlive.world/bounty/general)
+
 ## zkSync 生态
 
 跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel), [WOOFI](https://fi.woo.org/swap/)(非美)
