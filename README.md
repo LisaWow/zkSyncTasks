@@ -6,7 +6,7 @@
 * Sepolia: [Alchemy](https://sepoliafaucet.com/) (0.5E/day, 推荐) / [QuickNode](https://faucet.quicknode.com/ethereum/sepolia) (0.05E * 2/day, 推荐) / [PoW挖矿](https://sepolia-faucet.pk910.de)(大约3小时可挖0.05E, 不推荐)
 
 Galxe:
-* [A+ Role](https://galxe.com/galxecommunity/campaign/GCUTpU7t2T)
+* 【0930结束】[A+ Role](https://galxe.com/galxecommunity/campaign/GCUTpU7t2T)
   * [测试频道](https://discord.com/channels/824767871183355954/1072476542191542332)
   * 40s一道题，需完成8/10，否则需4小时后重试
   * [QAs](Galxe_APlus_Role_QAs.md)
@@ -24,7 +24,7 @@ DeFis: [EraLend](https://app.eralend.com/), OKX([SyncSwap U/E](https://www.okx.c
 
 NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account), [Kreatorland](https://kreatorland.com/)
 
-DID: [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?), [OpenName](https://app.open.name/)
+DID: [Safe](https://app.safe.global/), [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?), [OpenName](https://app.open.name/)
 
 工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354)）, [NFTs2Me](https://nfts2me.com/chain/zksync-era/)
 
@@ -152,7 +152,9 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
   * [OminiX](https://omni-x.io/drops): BASE → Metis, ≈0.45U
   * [Merkly](https://minter.merkly.com/): BASE → KAVA, ≈0.82U
   * [zkBridge](https://zkbridge.com/loyalty)
-    * [Pandra](https://zkbridge.com/gallery/pandra): Polygon → Celo(0.4U), Core(0.5U), Mantle(0.8U)
+    * [Pandra](https://zkbridge.com/gallery/pandra):  
+      * Polygon → Celo(0.69M, 0.4U), Core(0.69M, 0.5U), Mantle(1.28M, 0.8U)
+      * BSC → Celo(0.0024BNB, 0.5U), Core(0.0024BNB, 0.5U)
 
 ### StarkNet
 [StarkNet生态](https://www.starknet-ecosystem.com/) ([Argent版](https://www.dappland.com/))
@@ -173,6 +175,7 @@ Linea生态
 [Layer3任务](https://layer3.xyz/quests/explore-linea-with-layer3)
 
 ### Base
+[Base生态](https://www.baseuniverse.space/)
 BASE链任务：
 * [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
