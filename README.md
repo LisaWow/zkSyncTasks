@@ -20,7 +20,7 @@ Galxe:
 
 跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel), [WOOFI](https://fi.woo.org/swap/)(非美)
 
-Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap), [veSync](https://app.vesync.finance/swap)
+Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap), [veSync](https://app.vesync.finance/swap), [Wagmi](https://app.wagmi.com/#/swap)
 
 聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [ODOS](https://app.odos.xyz/), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4), [OpenOcean](https://app.openocean.finance/CLASSIC#/ZKSYNC/ETH/USDC)
 
@@ -105,6 +105,8 @@ NFT:
   * [Makx](https://galxe.com/makx/campaign/GC5sMUrwYa)(20230924止)
   * [Tribe on AppleHead](https://galxe.com/applehead/campaign/GC5uuUPjWd)(1005止)
   * [Sleep Finance](https://galxe.com/sleepfinance/campaign/GC571U2HZj)(20231030止)
+* 【可选】简单任务NFT：
+  * [zkPlanet](https://galxe.com/AcrossProtocol/campaign/GCvmUUbiH9)(20231003止)
 * 【推荐】免费OATs:
   * [Crux](https://galxe.com/crus/campaign/GCFeMUHcbM)
   * [Makx](https://galxe.com/makx/campaign/GC7wgUup1z)(截至0925)
@@ -157,7 +159,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
   * [Merkly](https://minter.merkly.com/): BASE → KAVA, ≈0.82U
   * [zkBridge](https://zkbridge.com/loyalty)
     * [Pandra](https://zkbridge.com/gallery/pandra):  
-      * Polygon → Celo(0.69M, 0.4U), Core(0.69M, 0.5U), Mantle(1.28M, 0.8U)
+      * Polygon → Manta(0.5M), Celo(0.69M, 0.4U), Core(0.69M, 0.5U), Moon(0.73M), Mantle(1.28M, 0.8U)
       * BSC → Celo(0.0024BNB, 0.5U), Core(0.0024BNB, 0.5U)
 
 ### StarkNet
