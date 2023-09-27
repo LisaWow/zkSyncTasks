@@ -187,6 +187,7 @@ BASE链任务：
 * [BASE主网之夏银河活动](https://galxe.com/base/campaign/GC25AU7PaZ)
   * [直接购买NFT](https://nft.coinbase.com/collection/base/0xEa2a41c02fA86A4901826615F9796e603C6a4491)
   * 【已结束】完成第一个主网之夏第一个NFT后：[Layer3活动](https://layer3.xyz/quests/claim-your-onchain-summer-nft)
+* [MSB空投](https://mintbase.net/airdrop)
 
 ### Scroll
 
