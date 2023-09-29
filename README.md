@@ -41,6 +41,7 @@ zkSync官方：
 * [官方NFT铸造](https://zksync-mint.summon.xyz/)
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
+* [Guild Role](https://guild.xyz/zksync-era)
 
 
 ### 跨链类
@@ -148,6 +149,11 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
     * [Quiz4](https://galxe.com/taiko/campaign/GCHphUjES6): C-B-C-D-C
 * 【新】[隐藏任务](https://galxe.com/taiko/campaign/GCKxqU5MwL)
   * Qiz: B-B-A-C-D
+* 【最新】[Alpha-5任务](https://galxe.com/taiko/campaign/GC5x7Ucecw)（2023.10.24结束）
+  * Qiz1: C-B-C-D-C
+  * Qiz2: C-B-B-D-C
+  * [NFT铸造教程](https://twitter.com/duola_eth/status/1707253984246071778)
+* [hello-taiko NFT](https://omnisea.tech/hello-taiko)
 
 ## 其他重要生态
 ### LayerZero
@@ -207,6 +213,7 @@ Sepolia测试网：
   * [thirdweb](https://thirdweb.com/thirdweb.eth/TokenERC20)
 * [Layer3任务](https://layer3.xyz/quests/scroll-q1), [2](https://layer3.xyz/quests/scroll-q2)(需要钱包里有0.005E，反女巫检查)
 * [银河活动官方指南](https://twitter.com/Galxe/status/1701627908304130216)
+
 
 ### EigenLayer生态
 [EigenLayer](https://app.eigenlayer.xyz/)生态任务:
