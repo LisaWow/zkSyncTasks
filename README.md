@@ -175,7 +175,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * DEXs: [AVNU](https://app.avnu.fi/en), [JediSwap](https://app.jediswap.xyz/), [mySwap](https://www.myswap.xyz/), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
 * DeFi: [zkLend](https://app.zklend.com/)
 * DMail
-* Domain: [StartnetID](https://app.starknet.id/)（[1美元5位域名活动](https://app.starknet.id/quantumleap), 20230917结束）
+* Domain: [StartnetID](https://app.starknet.id/)（[1美元5位域名活动](https://app.starknet.id/quantumleap), 20230917结束。[身份绑定](https://app.starknet.id/identities)）
 
 ### Linea
 Linea生态
