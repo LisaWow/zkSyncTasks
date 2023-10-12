@@ -161,6 +161,8 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * Swaps:
   * [testnet](https://testnetbridge.com/): Op/Arb E -> Goerli
 * NFTs:
+  * [Hologragh](https://app.holograph.xyz/)
+    * 截至1014，B/P/Op/Arb -> Zora / Mantle
   * [OminiX](https://omni-x.io/drops): BASE → Metis, ≈0.45U
   * [Merkly](https://minter.merkly.com/): BASE → KAVA, ≈0.82U
   * [zkBridge](https://zkbridge.com/loyalty)
@@ -175,7 +177,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * DEXs: [AVNU](https://app.avnu.fi/en), [JediSwap](https://app.jediswap.xyz/), [mySwap](https://www.myswap.xyz/), [10kSwap](https://10kswap.com/swap), [SithSwap](https://app.sithswap.com/swap/), [StarkEx](https://app.starkex.org/)
 * DeFi: [zkLend](https://app.zklend.com/)
 * DMail
-* Domain: [StartnetID](https://app.starknet.id/)（[1美元5位域名活动](https://app.starknet.id/quantumleap), 20230917结束。[身份绑定](https://app.starknet.id/identities)）
+* Domain: [StartnetID](https://app.starknet.id/)（[1美元5位域名活动](https://app.starknet.id/quantumleap), 20230917结束。[身份绑定](https://app.starknet.id/identities), [Quest](https://starknet.quest/quest/1)）
 
 ### Linea
 Linea生态
