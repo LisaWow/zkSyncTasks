@@ -16,7 +16,7 @@ Galxe:
 * [Dmail](https://mail.dmail.ai/compose)
 * [SecondLive](https://secondlive.world/bounty/general)
 
-## zkSync 生态
+## [zkSync 生态](https://zksync.dappradar.com/)
 
 跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel), [WOOFI](https://fi.woo.org/swap/)(非美)
 
@@ -41,7 +41,7 @@ zkSync官方：
 * [官方NFT铸造](https://zksync-mint.summon.xyz/)
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
-* [Guild Role](https://guild.xyz/zksync-era)
+* [Guild NFT](https://guild.xyz/zksync-era)(1.75e-3 E)
 
 
 ### 跨链类
@@ -189,6 +189,7 @@ Linea生态
 [Layer3任务](https://layer3.xyz/quests/explore-linea-with-layer3)
 
 ### Base
+![Alt text](image-6.png)
 [Base生态](https://www.baseuniverse.space/)
 BASE链任务：
 * [Mission Web3银河活动](https://galxe.com/MissionWeb3): [问题答案](https://twitter.com/maik2hello/status/1693429404222054804)
