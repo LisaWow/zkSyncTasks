@@ -36,7 +36,7 @@ DID: [Safe](https://app.safe.global/), [Tevaera](https://tevaera.com/?source=OKX
 
 Daily: [SecondLife](https://secondlive.world/bounty/general), [Robots Farm](https://robots.farm/airdrop/quests)
 
-工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354)）, [NFTs2Me](https://nfts2me.com/chain/zksync-era/)
+工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354), [指南2](https://twitter.com/ardizor/status/1712853514748375085)）, [NFTs2Me](https://nfts2me.com/chain/zksync-era/)
 
 zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/)（[操作指南](https://mirror.xyz/doger.eth/5rsvFS3GWleRE0Q-1EvbUW5DRQATYBHH4Vz0cNQLefE%E2%80%A6)）, [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)(滑点过大，不推荐)
 
@@ -77,7 +77,7 @@ EraLend
   * 【参考】EraLend积分规则：
   ![Alt text](image.png)
 
-[Satori](https://zksync.satori.finance/)（不支持美国、东亚，[交互教程](https://twitter.com/oldleek_eth/status/1674059322760867846?s=20)）:
+[Satori](https://zksync.satori.finance/)（不支持美国、东亚，[交互教程](https://twitter.com/oldleek_eth/status/1674059322760867846?s=20), [新教程](https://twitter.com/ardizor/status/1699759162941653275)）:
 * 【已结束】[银河任务](https://twitter.com/Zlican133061/status/1676515660304875520?s=20)
 * 【注意】Discord要求手机验证
 * OKX Cyperpedia活动持续（要求50U+和至少一笔交易）
@@ -184,6 +184,12 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * DeFi: [zkLend](https://app.zklend.com/)
 * DMail
 * Domain: [StartnetID](https://app.starknet.id/)（[1美元5位域名活动](https://app.starknet.id/quantumleap), 20230917结束。[身份绑定](https://app.starknet.id/identities), [Quest](https://starknet.quest/quest/1)）
+* NFT Markets: [Unframed](https://unframed.co/), [Flex](https://flexing.gg/)
+* Games: [briq](https://briq.construction/)
+
+* Braavos:
+  * [Zealy奥德赛](https://zealy.io/c/braavos/questboard): 在其中获取500XP或达到Level3时将获取whisperer角色（[官方说明](https://discord.com/channels/962985965889142844/1096117148612575333/threads/1164580694937317467)）
+  * [Starknet Quest](https://starknet.quest/quest/100): 完成任务（需上一步获取的whisperer角色）后申领NFT
 
 ### Linea
 Linea生态
