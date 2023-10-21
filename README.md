@@ -32,7 +32,7 @@ DeFis:
 
 NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account), [Kreatorland](https://kreatorland.com/)
 
-DID: [Safe](https://app.safe.global/), [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?), [OpenName](https://app.open.name/)
+DID: [Safe](https://app.safe.global/)（[教程](https://twitter.com/leshka_eth/status/1715767629930221816)）, [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?), [OpenName](https://app.open.name/)
 
 Daily: [SecondLife](https://secondlive.world/bounty/general), [Robots Farm](https://robots.farm/airdrop/quests)
 
