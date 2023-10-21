@@ -47,7 +47,7 @@ zkSync官方：
 * [官方NFT铸造](https://zksync-mint.summon.xyz/)
 * [个人版官方NFT铸造](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract) Write - Mint
   * [交互教程](https://twitter.com/gm365/status/1680826465603166208?s=20)
-* [Guild NFT](https://guild.xyz/zksync-era)(1.75e-3 E)
+* [Guild NFT](https://guild.xyz/zksync-era)(1.75e-3 E), [Guild Roles](https://guild.xyz/zksync-era)
 
 
 ### 跨链类
@@ -187,9 +187,12 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * NFT Markets: [Unframed](https://unframed.co/), [Flex](https://flexing.gg/)
 * Games: [briq](https://briq.construction/)
 
-* Braavos:
-  * [Zealy奥德赛](https://zealy.io/c/braavos/questboard): 在其中获取500XP或达到Level3时将获取whisperer角色（[官方说明](https://discord.com/channels/962985965889142844/1096117148612575333/threads/1164580694937317467)）
-  * [Starknet Quest](https://starknet.quest/quest/100): 完成任务（需上一步获取的whisperer角色）后申领NFT
+Braavos:
+* [Zealy奥德赛](https://zealy.io/c/braavos/questboard): 在其中获取500XP或达到Level3时将获取whisperer角色（[官方说明](https://discord.com/channels/962985965889142844/1096117148612575333/threads/1164580694937317467)）
+* [Starknet Quest](https://starknet.quest/quest/100): 完成任务（需上一步获取的whisperer角色）后申领NFT
+
+Starnet Quest:
+* [Focus Tree](https://starknet.quest/quest/15): 需要有StarknetID域名，问题答案 DCA
 
 ### Linea
 Linea生态
