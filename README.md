@@ -186,12 +186,14 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * Domain: [StartnetID](https://app.starknet.id/)（[1美元5位域名活动](https://app.starknet.id/quantumleap), 20230917结束。[身份绑定](https://app.starknet.id/identities), [Quest](https://starknet.quest/quest/1)）
 * NFT Markets: [Unframed](https://unframed.co/), [Flex](https://flexing.gg/)
 * Games: [briq](https://briq.construction/)
+* Tools: [StarkRevoke](https://www.starkrevoke.com/)
 
 Braavos:
 * [Zealy奥德赛](https://zealy.io/c/braavos/questboard): 在其中获取500XP或达到Level3时将获取whisperer角色（[官方说明](https://discord.com/channels/962985965889142844/1096117148612575333/threads/1164580694937317467)）
 * [Starknet Quest](https://starknet.quest/quest/100): 完成任务（需上一步获取的whisperer角色）后申领NFT
 
-Starnet Quest:
+Starknet Quest:
+* [启动任务](https://starknet.quest/categories/onboarding)
 * [Focus Tree](https://starknet.quest/quest/15): 需要有StarknetID域名，问题答案 DCA
 
 ### Linea
