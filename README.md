@@ -36,7 +36,7 @@ DID: [Safe](https://app.safe.global/)（[教程](https://twitter.com/leshka_eth/
 
 Daily: [SecondLife](https://secondlive.world/bounty/general), [Robots Farm](https://robots.farm/airdrop/quests)
 
-工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354), [指南2](https://twitter.com/ardizor/status/1712853514748375085)）, [NFTs2Me](https://nfts2me.com/chain/zksync-era/)
+工具: thirdweb （[操作指南](https://twitter.com/ardizor/status/1699134876774195354), [指南2](https://twitter.com/ardizor/status/1712853514748375085)）, [NFTs2Me](https://nfts2me.com/chain/zksync-era/)（[指南](https://twitter.com/rektfencer/status/1716044328618074149)）
 
 zkSync Lite: [官方桥](https://lite.zksync.io/account/), [官方NFT](https://lite.zksync.io/account/nft/)（[操作指南](https://mirror.xyz/doger.eth/5rsvFS3GWleRE0Q-1EvbUW5DRQATYBHH4Vz0cNQLefE%E2%80%A6)）, [ZigZag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)(滑点过大，不推荐)
 
@@ -192,9 +192,14 @@ Braavos:
 * [Zealy奥德赛](https://zealy.io/c/braavos/questboard): 在其中获取500XP或达到Level3时将获取whisperer角色（[官方说明](https://discord.com/channels/962985965889142844/1096117148612575333/threads/1164580694937317467)）
 * [Starknet Quest](https://starknet.quest/quest/100): 完成任务（需上一步获取的whisperer角色）后申领NFT
 
-Starknet Quest:
-* [启动任务](https://starknet.quest/categories/onboarding)
-* [Focus Tree](https://starknet.quest/quest/15): 需要有StarknetID域名，问题答案 DCA
+Starknet Quest（需要有StarknetID域名）:
+* [01 启动任务](https://starknet.quest/quest/1)：问题答案 CBC
+* [13 Giga Brain](https://starknet.quest/quest/13)：问题答案 CBC / BBA / CBAB
+* [14 账号抽象](https://starknet.quest/quest/14)：问题答案 DDCB / BCBC / AB
+* [15 Focus Tree](https://starknet.quest/quest/15): 问题答案 DCA
+* [16 Element宝石](https://starknet.quest/quest/16): 问题答案 CDA
+* [17 briq宝石](https://starknet.quest/quest/17): 问题答案 BACA
+* [19 Starknet.id宝石](https://starknet.quest/quest/19): 问题答案 CBC
 
 ### Linea
 Linea生态
