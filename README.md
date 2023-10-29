@@ -190,6 +190,24 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 
 Braavos:
 * [Zealy奥德赛](https://zealy.io/c/braavos/questboard): 在其中获取500XP或达到Level3时将获取whisperer角色（[官方说明](https://discord.com/channels/962985965889142844/1096117148612575333/threads/1164580694937317467)）
+  * #4 - Learning Journey 前八道题目的答案（每题50XP，做错需要一周后才能重答）：
+    
+    1⃣帐户抽象安全金字塔文章：答案B
+    
+    2⃣将资金桥接到您的 Starknet 钱包文章：答案B
+
+    3⃣智能钱包 <> 改变用户体验和安全文章：答案D
+
+    4⃣最佳 Starknet 钱包文章：答案C
+
+    5⃣使用 Braavos 钱包文章发现最好的 Starknet dApps：答案A
+
+    6⃣硬件签名者：增强加密钱包安全性的创新功能文章：答案A
+
+    7⃣以太坊的合并能否提供可扩展性和更低的交易费用？：答案C
+
+    8⃣认识 Braavos，Starknet 上的第一个移动钱包：答案B
+
 * [Starknet Quest](https://starknet.quest/quest/100): 完成任务（需上一步获取的whisperer角色）后申领NFT
 
 Starknet Quest（需要有StarknetID域名）:
