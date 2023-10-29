@@ -208,6 +208,8 @@ Braavos:
 
     8⃣认识 Braavos，Starknet 上的第一个移动钱包：答案B
 
+  * 完成400XP后，点击 #7 - Claim Your Titles 中的 Claim Role "Whisper of Braavos"并Claim后，等待至少半小时后即可获得Whisper角色
+
 * [Starknet Quest](https://starknet.quest/quest/100): 完成任务（需上一步获取的whisperer角色）后申领NFT
 
 Starknet Quest（需要有StarknetID域名）:
