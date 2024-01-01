@@ -20,19 +20,19 @@ Galxe:
 
 跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel), [WOOFI](https://fi.woo.org/swap/)(非美)
 
-Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap), [veSync](https://app.vesync.finance/swap), [Wagmi](https://app.wagmi.com/#/swap), [Crus](https://crus.xyz/?#/add/ETH/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/2000)
+Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap), [veSync](https://app.vesync.finance/swap), [Wagmi](https://app.wagmi.com/#/swap), [Crus](https://crus.xyz/?#/add/ETH/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/2000), [eZKalibur](https://dapp.ezkalibur.com/)
 
-聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [ODOS](https://app.odos.xyz/), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4), [OpenOcean](https://app.openocean.finance/CLASSIC#/ZKSYNC/ETH/USDC)
+聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [ODOS](https://app.odos.xyz/), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4), [OpenOcean](https://app.openocean.finance/CLASSIC#/ZKSYNC/ETH/USDC), [Rubic](https://app.rubic.exchange/)
 
 DeFis: 
 - Orderbooks: [zkEx](https://app.zkex.com/trade/ETH/USD), [MES Protocol](https://app.mesprotocol.com/spot/ETH-USDC)
 - Futures: [SynFutures](https://trade.synfutures.com/#/trade), [Satori](https://zksync.satori.finance/), [Fulcrom](https://fulcrom.finance/en/trade/)
-- Lending: [EraLend](https://app.eralend.com/), [Reactor Fusion](https://app.reactorfusion.xyz/)
+- Lending: [EraLend](https://app.eralend.com/), [Reactor Fusion](https://app.reactorfusion.xyz/), [ZeroLend](https://app.zerolend.xyz/)
 - Farming: OKX([SyncSwap U/E](https://www.okx.com/web3/defi/detail/20711), [SpaceFi U/E](https://www.okx.com/web3/defi/detail/21010)), [zkFox](https://zkfox.io/#/bank), , [zkDX](https://app.zkdx.io/trade)
 
 NTF市场: [OKX](https://www.okx.com/web3/marketplace/nft/explore), [Element](https://element.market/account), [Kreatorland](https://kreatorland.com/)
 
-DID: [Safe](https://app.safe.global/)（[教程](https://twitter.com/leshka_eth/status/1715767629930221816)）, [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?), [OpenName](https://app.open.name/)
+DID: [Safe](https://app.safe.global/)（[教程](https://twitter.com/leshka_eth/status/1715767629930221816)）, [Tevaera](https://tevaera.com/?source=OKX), [Dmail](https://mail.dmail.ai/presale), [ZNS](https://zks.network/?), [OpenName](https://app.open.name/), [Goal3](https://app.goal3.xyz/), [ZPET](https://app.zpet.tech/index/index)
 
 Daily: [SecondLife](https://secondlive.world/bounty/general), [Robots Farm](https://robots.farm/airdrop/quests)
 
