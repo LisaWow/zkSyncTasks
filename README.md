@@ -130,6 +130,8 @@ NFT:
 Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**: 
 > [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
 >【附】[空投交互指南](https://twitter.com/leshka_eth/status/1689944405573292032)
+* [Taikonaut on Guide](https://galxe.com/taiko/campaign/GCRpEt459Y)
+  * [加入Guide](https://guild.xyz/taiko/begin-the-journey)
 * [Get Started](https://galxe.com/taiko/campaign/GCeWBUeKCr)
   * Discord需通过Taiko的反机器人测试
   * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
