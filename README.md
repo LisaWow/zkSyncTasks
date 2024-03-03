@@ -134,7 +134,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
   * 问题答案：C-C-A-C-D
   * [Guide](https://guild.xyz/taiko/begin-the-journey)
     * Holesky: [加网](https://chainlist.org/chain/17000), [领水](https://faucetlink.to/holesky)(推荐Tatum)，[Mint Horse](https://bridge.katla.taiko.xyz/faucet)。记得钱包加 Horse 代码：0x0469760d321D08AB4fce75E2E799902C9f55dA59
-    * Katla: [加网](https://chainlist.org/chain/167008), 
+    * Katla: [加网](https://chainlist.org/chain/167008), [Bridge](https://bridge.katla.taiko.xyz/)
 * [Get Started](https://galxe.com/taiko/campaign/GCeWBUeKCr)
   * Discord需通过Taiko的反机器人测试
   * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
