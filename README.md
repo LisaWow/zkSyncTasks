@@ -133,6 +133,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * [Taikonaut on Guide](https://galxe.com/taiko/campaign/GC2qNt4v6M)
   * 问题答案：C-C-A-C-D
   * [Guide](https://guild.xyz/taiko/begin-the-journey)
+    * Holesky: [加网](https://chainlist.org/chain/17000), [领水](https://faucetlink.to/holesky)(推荐Tatum)
 * [Get Started](https://galxe.com/taiko/campaign/GCeWBUeKCr)
   * Discord需通过Taiko的反机器人测试
   * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
