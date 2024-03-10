@@ -294,5 +294,6 @@ Sepolia测试网：
   - [Keplr钱包插件](https://chromewebstore.google.com/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)，[添加Babylon Testnet](https://chains.keplr.app/)后在Keplr钱包添加Babylon Testnet的可见性
   - OKX钱包加币种 sBTC（Signet BTC，紫色图标）
   - [Discord](https://discord.com/invite/babylonglobal): 验证、获取角色、领取[tBBN](https://discord.com/channels/1046686458070700112/1075371070493831259)及[sBTC](https://discord.com/channels/1046686458070700112/1212398536256393227)（!faucet 相应地址）
+  > 如果提示必须通过手机验证身份后才能在此服务器发送消息，则放弃此账号的Discord操作，**绝对不能给该账号加上手机验证**
   - sBTC 领水：[SignetFaucet](https://signetfaucet.com/)，[其二](https://alt.signetfaucet.com/)
   - 质押：[Babylon官网](https://btcstaking.babylonchain.io/)，及[银河活动](https://galxe.com/Babylon/campaign/GCztVt4xVj)
