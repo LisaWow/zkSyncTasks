@@ -133,8 +133,8 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 * [Taikonaut on Guide](https://galxe.com/taiko/campaign/GC2qNt4v6M)
   * 问题答案：C-C-A-C-D
   * [Guide](https://guild.xyz/taiko/begin-the-journey)
-    * Holesky: [加网](https://chainlist.org/chain/17000), [领水](https://faucetlink.to/holesky)(推荐Tatum)，[Mint Horse](https://bridge.katla.taiko.xyz/faucet)后[Bridge](https://bridge.katla.taiko.xyz/)至少1个到Kalta。记得钱包加 Horse 代码：0x0469760d321D08AB4fce75E2E799902C9f55dA59
-    * Katla: [加网](https://chainlist.org/chain/167008), [Bridge](https://bridge.katla.taiko.xyz/)
+    * Holesky: [加网](https://chainlist.org/chain/17000), [领水](https://faucetlink.to/holesky)(推荐Tatum)，[Mint Horse](https://bridge.katla.taiko.xyz/faucet)后[Bridge](https://bridge.katla.taiko.xyz/)至少1个到Kalta。记得钱包加 HORSE 代码：0x0469760d321D08AB4fce75E2E799902C9f55dA59
+    * Katla: [加网](https://chainlist.org/chain/167008), [Bridge](https://bridge.katla.taiko.xyz/)。记得钱包加 HORSE.t 代码：0xD69d3e64D71844BBDdA51Cd7f23ED3631E9FAC49
 * [Get Started](https://galxe.com/taiko/campaign/GCeWBUeKCr)
   * Discord需通过Taiko的反机器人测试
   * Gitcoin Passport分值 ≥ 20 可领取2500银河积分
@@ -285,3 +285,14 @@ Sepolia测试网：
     * Step4: Wait for deployment completion
       * 需要等待自己部署的Flash Layer状态变为Active（紫蓝色，而非红色的Deploying或绿色的Queued）才算成功
   * [活动介绍博客](https://blog.altlayer.io/altlayer-collaborates-with-eigenlayer-on-altitude-phase-iii-restaking-to-launch-flash-layer-73626afce02fv)
+
+### Babylon
+
+测试网：
+
+- [完整指南](https://medium.com/babylonchain-io/join-the-bitcoin-staking-revolution-5558ad66f5ef)，[中文指南](https://twitter.com/oldleek_eth/status/1762013503010099237)
+  - [Keplr钱包插件](https://chromewebstore.google.com/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)
+  - OKX钱包加币种 sBTC（Signet BTC，紫色图标）
+  - [Discord](https://discord.com/invite/babylonglobal): 验证、获取角色、领取[tBBN](https://discord.com/channels/1046686458070700112/1075371070493831259)及[sBTC](https://discord.com/channels/1046686458070700112/1212398536256393227)（!faucet 相应地址）
+  - sBTC 领水：[SignetFaucet](https://signetfaucet.com/)，[其二](https://alt.signetfaucet.com/)
+  - 质押：[Babylon官网](https://btcstaking.babylonchain.io/)，及[银河活动](https://galxe.com/Babylon/campaign/GCztVt4xVj)
