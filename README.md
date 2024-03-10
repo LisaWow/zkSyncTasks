@@ -290,8 +290,8 @@ Sepolia测试网：
 
 测试网：
 
-- [完整指南](https://medium.com/babylonchain-io/join-the-bitcoin-staking-revolution-5558ad66f5ef)，[中文指南](https://twitter.com/oldleek_eth/status/1762013503010099237)
-  - [Keplr钱包插件](https://chromewebstore.google.com/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)
+- [完整指南](https://medium.com/babylonchain-io/bitcoin-staking-guide-for-babylon-testnet-7c0fe4fffa95)，[中文指南](https://twitter.com/oldleek_eth/status/1762013503010099237)
+  - [Keplr钱包插件](https://chromewebstore.google.com/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)，[添加Babylon Testnet](https://chains.keplr.app/)
   - OKX钱包加币种 sBTC（Signet BTC，紫色图标）
   - [Discord](https://discord.com/invite/babylonglobal): 验证、获取角色、领取[tBBN](https://discord.com/channels/1046686458070700112/1075371070493831259)及[sBTC](https://discord.com/channels/1046686458070700112/1212398536256393227)（!faucet 相应地址）
   - sBTC 领水：[SignetFaucet](https://signetfaucet.com/)，[其二](https://alt.signetfaucet.com/)
