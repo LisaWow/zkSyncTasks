@@ -18,11 +18,11 @@ Galxe:
 
 ## [zkSync 生态](https://zksync.dappradar.com/)
 
-跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel), [WOOFI](https://fi.woo.org/swap/)(非美)
+跨链: [官方桥](https://bridge.zksync.io/), [Orbiter](https://www.orbiter.finance/?source=Ethereum&dest=zkSync%20Era), [Layerswap](https://www.layerswap.io/app), [XY Finance](https://app.xy.finance/), [Bungee](https://www.bungee.exchange/refuel), [WOOFI](https://fi.woo.org/swap/)(非美), [Nitro](https://app.routernitro.com/swap?fromToken=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE&toChain=324&toToken=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4)
 
-Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap), [veSync](https://app.vesync.finance/swap), [Wagmi](https://app.wagmi.com/#/swap), [Crus](https://crus.xyz/?#/add/ETH/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/2000), [eZKalibur](https://dapp.ezkalibur.com/)
+Swaps: [SyncSwap](https://syncswap.xyz/), [CAKE](https://pancakeswap.finance/swap?chain=zkSync), [iZiSwap](https://izumi.finance/trade/swap), [SPACE](https://swap-zksync.spacefi.io/#/swap), [MAV](https://app.mav.xyz/), [MUTE](https://app.mute.io/swap), [Velocore](https://zksync.velocore.xyz/swap), [veSync](https://app.vesync.finance/swap), [Wagmi](https://app.wagmi.com/#/swap), [Crus](https://crus.xyz/?#/add/ETH/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/2000), [eZKalibur](https://dapp.ezkalibur.com/), [Koi](https://app.koi.finance/swap)
 
-聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [ODOS](https://app.odos.xyz/), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4), [OpenOcean](https://app.openocean.finance/CLASSIC#/ZKSYNC/ETH/USDC), [Rubic](https://app.rubic.exchange/)
+聚合Swaps: [OKX](https://www.okx.com/web3/dex-swap), [1INCH](https://app.1inch.io/#/324/simple/swap/ETH/USDC), [KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc), [ODOS](https://app.odos.xyz/), [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4), [OpenOcean](https://app.openocean.finance/CLASSIC#/ZKSYNC/ETH/USDC), [Rubic](https://app.rubic.exchange/), [zkSwap](https://zkswap.finance/aggregator)
 
 DeFis: 
 - Orderbooks: [zkEx](https://app.zkex.com/trade/ETH/USD), [MES Protocol](https://app.mesprotocol.com/spot/ETH-USDC)
