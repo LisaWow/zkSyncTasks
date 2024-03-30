@@ -130,6 +130,8 @@ NFT:
 Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**: 
 > [详细教程](https://mirror.xyz/0x5CCc2a72c1b601cc674FdB6B7Ce551436E6d2AA2/FCy5VTKX6rSVwEAjuZxSEF6HO6No5RcfLlLzgu4T1AE)
 >【附】[空投交互指南](https://twitter.com/leshka_eth/status/1689944405573292032)
+* [Taiko x Blazpay](https://galxe.com/taiko/campaign/GC8TMt4fFG)
+  * Quiz: B-C-C-D-A
 * [Taikonaut on Guide](https://galxe.com/taiko/campaign/GC2qNt4v6M)
   * 问题答案：C-C-A-C-D
   * [Guide](https://guild.xyz/taiko/begin-the-journey)
