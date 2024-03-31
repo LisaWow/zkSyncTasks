@@ -132,7 +132,7 @@ Taiko **[银河活动（推荐）](https://galxe.com/taiko/)**:
 >【附】[空投交互指南](https://twitter.com/leshka_eth/status/1689944405573292032)
 * [Taiko x Blazpay](https://galxe.com/taiko/campaign/GC8TMt4fFG)
   * Quiz: B-C-C-D-A
-  * [Blazpay](taiko.blazpay.com/user/login): [Entry Pass](https://blazpay.com/entry-pass/taiko)
+  * [Blazpay](https://taiko.blazpay.com/user/login): [Entry Pass](https://blazpay.com/entry-pass/taiko)
 * [Taiko x OKX](https://galxe.com/taiko/campaign/GCCedtTeoC)
 * [Taikonaut on Guide](https://galxe.com/taiko/campaign/GC2qNt4v6M)
   * 问题答案：C-C-A-C-D
